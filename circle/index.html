@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>Parteispenden in Deutschland - labs.vis4.net</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<script src="js/raphael-2.1.0.min.js" type="text/javascript"></script>
+	<script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+	<script src="js/jquery.transit.js" type="text/javascript"></script>
+	<script src="js/chroma.min.js" type="text/javascript"></script>
+	<script src="js/jquery.nouislider.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="js/jquery.nouislider.css">
+	<script src="js/gfx.js" type="text/javascript"></script>
+	<style>
+	body, html {
+		background: #fff;
+		margin:0;
+		padding: 0;
+		font-family: Helvetica Neue, HelveticaNeue, Helvetica, Arial;
+		font-size: 13px;
+		height: 100%;
+	}
+	#wrapper {
+		background: #fff;
+		width: 960px;
+		margin: 0 auto;
+		position: relative;
+		height: 100%;
+	}
+	#right { display: block; padding-top: 30px; height: 100%;}
+	#circle {
+
+		text-align: right;
+	}
+	#left {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 240px;
+		padding-top: 20px;
+		height: 100%;
+		z-index: 100;
+	}
+	.matrix td { width: 13px; }
+
+
+	h1 { margin:0; font-size: 42px; }
+	h2 { margin:0 0 20px 2px; font-size: 30px; }
+	h3 { margin:0 0 20px 2px; font-size: 20px; }
+	p { margin: 0 0 10px;}
+	.subtitle { margin-bottom: 1em; }
+	.noUi-base {
+		height: 10px;
+	}
+	.noUi-target {
+		padding: 0 14px 0 7px;
+	}
+	.noUi-handle {
+		height: 20px;
+		width: 16px;
+		margin: -5px 0 0 -8px;
+		background: #fff;
+		box-shadow: inset 3px 3px 14px #eee;
+		border-color: #888;
+	}
+	.noUi-handle-lower {
+		border-radius: 10px 0 0 10px;
+	}
+	.noUi-handle-upper {
+		border-radius: 0 10px 10px 0;
+	}
+	.noUi-connect {
+		background: #ade;
+		border: 0;
+	}
+	.noUi-background {
+		background: #eee;
+		border-radius: 4px;
+		border: 0;
+	}
+	.filter {
+		margin-bottom: 10px;
+		padding-bottom: 10px;
+		padding-left: 5px;
+	}
+	#amount-range-lower, #amount-range-upper,
+	#time-range-lower, #time-range-upper {
+		font-weight: bold;
+	}
+	button {
+		box-shadow: inset 0 -3px 15px -2px rgba(0, 0, 0, 0.1);
+		border: 1px solid #bbbbbb;
+		height: 30px;
+		line-height: 28px;
+		padding: 0 1em;
+		text-decoration: none;
+		color: #333333;
+		background: #fcfcfc;
+		cursor: pointer;
+		border-radius: 2px;
+	}
+	button:hover {
+		box-shadow: inset 0 0 15px -2px rgba(0, 0, 0, 0.2);
+		background: #fff;
+	}
+	button:active {
+		box-shadow: inset 0 4px 15px -2px rgba(0, 0, 0, 0.25);
+		background: #fff;
+	}
+	#search {
+		height: 23px;
+		line-height: 23px;
+		border-radius: 2px;
+		border: 1px solid #bbb;
+		padding: 0 3px;
+		box-shadow: inset 3px 3px 3px -2px #ddd;
+	}
+	p.intro {
+		font-size: 13px;
+		color: #555;
+		line-height: 18px;
+		margin-top: 15px;
+	}
+	.top-donations div {
+		margin-bottom: 5px;
+	}
+	.top-donations div span {
+		color: #999;
+	}
+	.footer {
+		margin-top: 20px;
+		padding-top: 10px;
+		line-height: 20px;
+		position: absolute;
+		bottom: 40px;
+		left: 0;
+	}
+	.footer a {
+		color: #09d;
+		text-decoration: none;
+	}
+	.twitter-btn {
+		display: inline-block;
+	}
+	.twitter-btn .btn {
+		height: 20px;
+		display: inline-block;
+		box-sizing: border-box;
+		position: relative;
+		background-color: #eee;
+		background-image: -webkit-linear-gradient(#fff,#dedede);
+		background-image: linear-gradient(#fff,#dedede);
+		border: #ccc solid 1px;
+		border-radius: 3px;
+		color: #333;
+		font-weight: bold;
+		text-shadow: 0 1px 0 rgba(255,255,255,.5);
+		cursor: pointer;
+		height: 20px;
+		max-width: 98%;
+		overflow: hidden;
+		color: #333;
+		font-weight: bold;
+		text-shadow: 0 1px 0 rgba(255,255,255,.5);
+		cursor: pointer;
+		font-size: 11px;
+		line-height: 18px;
+	}
+	.twitter-btn .btn .label {
+		padding: 0 3px 0 19px;
+		white-space: nowrap;
+		color: #333;
+	}
+	.twitter-btn .btn i {
+		position: absolute;
+		top: 50%;
+		left: 2px;
+		margin-top: -5px;
+		width: 16px;
+		height: 13px;
+		background: transparent url(img/twitter-btn.png) 0 0 no-repeat;
+	}
+	select {
+		width: 8em;
+	}
+	.matrix {
+		border-spacing:0;
+    	border-collapse:collapse;
+	}
+	.matrix td {
+		border-top: 1px solid #eee;
+		border-left: 1px solid #eee;
+	}
+	.matrix tr th:first-child {
+		padding-right: 4px;
+	}
+	.matrix th {
+		font-size: 12px;
+	}
+	#left .intro {
+		padding-left: 5px;
+		margin-bottom: 15px;
+	}
+	#right .footer {
+		left: auto;
+		right: 0;
+		width: 100%;
+		text-align: right;
+		padding-bottom: 8px;
+	}
+	.license {
+		font-size: 9px;
+		line-height: 12px;
+		color: #aaa;
+		margin-top: 5px;
+	}
+	.license a {
+		color: #79a;
+	}
+
+	@media only screen and (min-width : 1220px) and (max-width: 1423px) {
+		/* Styles */
+		#wrapper { width: 1200px; }
+		#circle { text-align: center; }
+		#right { display: block; width: 240px; position: absolute; top: 0; right: 0;}
+	}
+	@media only screen and (min-width : 1424px) {
+		/* Styles */
+		#wrapper { width:1400px; }
+		#circle { text-align: center; }
+		#left { width: 260px; }
+		#right { display: block; width: 260px; position: absolute; top: 0; right: 0;}
+		.matrix td { width: 14px; }
+		.matrix th { font-size: 13px }
+		.footer { bottom: 60px;}
+	}
+	</style>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		(function() {
+			var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+			s.type = 'text/javascript';
+			s.async = true;
+			s.src = 'http://api.flattr.com/js/0.5.0/load.js?mode=auto';
+			t.parentNode.insertBefore(s, t);
+		})();
+	/* ]]> */
+	</script>
+
+</head>
+<body>
+	<div id="wrapper">
+		<div id="left">
+			<h1>Parteispenden</h1>
+			<h2>in Deutschland</h2>
+
+			<p class="intro">
+				Diese Grafik zeigt Spenden an politische Parteien <b>ab 50.000€</b>.
+			</p><p class="intro">
+				Jede Spende wird durch eine Linie repräsentiert, die von den Spendern im unteren Halbkreis zu den Parteien im oberen Halbkreis verläuft. Die Linien&shy;stärke ist abhängig von der Höhe der Spende, die Farbe repräsentiert die Empfängerpartei.<br/>
+			</p>
+
+			<div class="filter">
+				<p>Zeitraum: von <span id="time-range-lower"></span> bis 
+					<span id="time-range-upper"></span></p>
+				<div id="time-range"></div>
+			</div>
+
+			<div class="filter">
+				<p>Betrag: von <span id="amount-range-lower"></span> bis 
+					<span id="amount-range-upper"></span></p>
+				<div id="amount-range"></div>
+			</div>
+			
+			<div class="filter">
+				<p>Spender suchen:
+				<input type="text" id="search" /></p>
+
+				Spender sortieren: 
+				<select id="sort">
+					<option value="name" selected="selected">Name</option>
+					<option value="total">Gesamtsumme</option>
+					<option value="average">Durchschnittliche Spende</option>
+					<option value="count">Anzahl der Spenden</option>
+				</select>
+			</div>
+
+			
+
+			<div class="footer">
+				Quelle: <a href="http://www.bundestag.de/bundestag/parteienfinanzierung/fundstellen50000/">bundestag.de</a>
+				<br/>
+				Idee &amp; Visualisierung: <a href="http://driven-by-data.net/">Gregor Aisch</a><br />
+				<div class="license">
+					<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Diese Grafik ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.de">Creative Commons Namensnennung-Nicht kommerziell 3.0 Unported Lizenz</a>.
+				</div>
+			</div>
+		</div>
+		<div id="circle">
+			
+		</div>
+		<div id="right">
+			
+			<h3 class="focus-parties"></h3>
+			<div class="top-donations"></div>
+			<p class="intro">
+				Die Heatmap zeigt die Gesamthöhe der Spenden pro Monat für alle ausgewählten Spenden.
+			</p>
+			<p class="intro">
+				Klicke auf eine Partei und/oder einen Spender um die Auswahl einzuschränken. Mehrfachauswahl ist möglich.
+			</p>
+			<button id="reset">Filter zurücksetzen</button>
+			<div class="footer">
+				<div class="twitter-btn" data-scribe="component:button"><a href="https://twitter.com/intent/tweet?hashtags=infovis&amp;original_referer=https%3A%2F%2Ftwitter.com%2Fabout%2Fresources%2Fbuttons&amp;text=Das%20Netzwerk%20aus%20Parteispenden%20in%20Deutschland&amp;tw_p=tweetbutton&amp;url=labs.vis4.net%2Fparteispenden%2F&amp;via=driven_by_data" class="btn" id="b"><i></i><span class="label" id="l">Twittern</span></a></div> <br/>
+				<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://labs.vis4.net/parteispenden/"></a>
+			</div>
+		</div>
+	</div>
+	<!-- Piwik -->
+	<script type="text/javascript">
+	var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.vis4.net/" : "http://piwik.vis4.net/");
+	document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script type="text/javascript">
+	try {
+	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 7);
+	piwikTracker.trackPageView();
+	piwikTracker.enableLinkTracking();
+	} catch( err ) {}
+	</script><noscript><p><img src="http://piwik.vis4.net/piwik.php?idsite=7" style="border:0" alt="" /></p></noscript>
+	<!-- End Piwik Tag -->
+
+</body>
+</html>
