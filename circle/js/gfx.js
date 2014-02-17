@@ -1,14 +1,10 @@
 
 (function() {
 
-    var or = innerHeight * 0.5,
+    var or,
         ow = 1000,
         config = {
             container: 'circle',
-            cx: or * 1.1,
-            cy: or,
-            r: or * 0.8,
-            or: or * 0.95,
             colors: {
                 'CDU': '#313131', 'SPD': '#E2001A', 'GRÜNE': '#1FA12D', 'FDP': '#F1EB01', 'CSU' : '#0088CE',
                 'MLPD': '#b92919', 'BSU': '#FFA700', 'LINKE': '#AB0C9F', 'NPD': '#775C44', 'AGFG': '#D3723D',
@@ -94,6 +90,11 @@
 
     function drawDonationCircle() {
 
+        or = Math.min(innerHeight * 0.5, ($('#wrapper').width()-(innerWidth < 1220 ? 270 : 550)) * 0.5);
+        config.cx = or * 1.1;
+        config.cy = or;
+        config.r = or * 0.8;
+        config.or = or * 0.95;
         $('#'+config.container).html('');
         lines = [];
         donor_labels = {};
@@ -223,10 +224,10 @@
         }
     };
 
-    function initUI() {
+    function initUI(noSlider) {
 
-        initTimeSlider();
-        initAmountSlider();
+        if (!noSlider) initTimeSlider();
+        if (!noSlider) initAmountSlider();
         initDonorLabels();
         initPartyArcs();
         initResetButton();
@@ -496,6 +497,16 @@
                 initUI();
                 updateFilter();
             }
+        });
+
+        var resizeTimer;
+        $(window).resize(function() {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function() {
+                drawDonationCircle();
+                initUI(true);
+                updateFilter();
+            }, 500);
         });
     });
 

@@ -31,7 +31,8 @@
 	}
 	#right { display: block; padding-top: 30px; height: 100%;}
 	#circle {
-
+		position: relative;
+		left: 40px;
 		text-align: right;
 	}
 	#left {
@@ -223,13 +224,13 @@
 	@media only screen and (min-width : 1220px) and (max-width: 1423px) {
 		/* Styles */
 		#wrapper { width: 1200px; }
-		#circle { text-align: center; }
+		#circle { text-align: center; left:0; }
 		#right { display: block; width: 240px; position: absolute; top: 0; right: 0;}
 	}
 	@media only screen and (min-width : 1424px) {
 		/* Styles */
 		#wrapper { width:1400px; }
-		#circle { text-align: center; }
+		#circle { text-align: center; left:0;}
 		#left { width: 260px; }
 		#right { display: block; width: 260px; position: absolute; top: 0; right: 0;}
 		.matrix td { width: 14px; }
