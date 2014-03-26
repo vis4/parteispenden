@@ -28,7 +28,8 @@
         selected_parties = [],
         hovered_party = null,
         donation_range = [],
-        time_range = [];
+        time_range = [],
+        hover_month;
 
     function str2ts(s) {
         return Math.round(Date.UTC(s)*0.001);
@@ -60,6 +61,7 @@
                 key: row[1],
                 addr1: row[4],
                 addr2: row[5],
+                date_s: row[6],
                 date1: new Date(row[6]),
                 date2: new Date(row[7]),
                 ts: Math.round((new Date(row[6])).getTime() * 0.001)
@@ -377,7 +379,8 @@
             var d = line.node.data,
                 a = d.amount >= donation_range[0] && d.amount <= donation_range[1],
                 b = d.ts >= time_range[0] && d.ts <= time_range[1],
-                visible = a && b && party_visible(d.party) && donor_visible(d.key);
+                c = !hover_month || d.date_s.substr(0,7) == hover_month,
+                visible = a && b && c && party_visible(d.party) && donor_visible(d.key);
             line.opacity(visible ? 1 : 0.02);
         });
 
@@ -408,7 +411,7 @@
         //if (!selected_donors.length && !hovered_donor && !donor_search) visible_donors = [];
 
         if (true) {
-            var title = visible_parties.length == data.num_parties && visible_donors.length == data.num_donors ? 'Alle Spenden' :
+            var title = visible_parties.length == data.num_parties && visible_donors.length == data.num_donors ? 'Spendenkalender' :
                 (visible_donors.length && visible_donors.length < data.num_donors ? ( visible_donors.length < 10 ? visible_donors.join(', ') : '...') : '')+
                 (visible_parties.length && visible_parties.length < data.num_parties && visible_donors.length && visible_donors.length < data.num_donors ? ' ➛ ' : '') +
                 (visible_parties.length && visible_parties.length < data.num_parties ? visible_parties.join(', ') : '');
@@ -421,8 +424,8 @@
                         (d.amount >= donation_range[0] && d.amount <= donation_range[1]);
                 });
             if (true) {
-                // donation matrix
-                var matrix = $('<table />').addClass('matrix').appendTo(top),
+                // donation matrix aka heatmap
+                var matrix = $('<table />').addClass('matrix').appendTo(top).on('mouseleave', mouseout),
                     tr = $('<tr />').appendTo(matrix),
                     t0 = new Date(time_range[0]*1000),
                     t1 = new Date(time_range[1]*1000),
@@ -432,7 +435,7 @@
                     m, bg,
                     ym_dict = {};
                 $.each(filt_donations, function(i, don) {
-                    var ym = don.date1.getFullYear()+'-'+(don.date1.getMonth()+1);
+                    var ym = yearmonth(don.date1.getFullYear(), don.date1.getMonth()+1);
                     if (!ym_dict[ym]) ym_dict[ym] = 0;
                     ym_dict[ym] += don.amount;
                     max = Math.max(max, ym_dict[ym]);
@@ -447,9 +450,13 @@
                     $('<th />').html(yr).appendTo(tr);
                     m = 1;
                     while (m <= 12) {
+                        var k = yearmonth(yr, m);
                         $('<td />')
-                            .attr('title', ym_dict[yr+'-'+m] ? fmt_amount(ym_dict[yr+'-'+m], true) : '')
-                            .css({ background: ym_dict[yr+'-'+m] ? bg(ym_dict[yr+'-'+m]).hex() : '#fff' })
+                            .attr('title', ym_dict[k] ? fmt_amount(ym_dict[k], true) : '')
+                            .css({ background: ym_dict[k] ? bg(ym_dict[k]).hex() : '#fff' })
+                            .data('ym', k)
+                            .on('mouseover', mouseenter)
+                            .on('mouseout', mouseout)
                             .appendTo(tr);
                         m++;
                     }
@@ -468,6 +475,18 @@
         } else {
             $('.focus-parties, .top-donations').html('');
            //$('.intro').show();
+        }
+        function mouseenter(e) {
+            hover_month = $(e.target).data('ym');
+            if (!ym_dict[hover_month]) hover_month = undefined;
+            updateFilter();
+        }
+        function mouseout() {
+            hover_month = undefined;
+            updateFilter();
+        }
+        function yearmonth(yr, m) {
+            return yr+'-'+(m < 10 ? '0' : '') + m;
         }
     }
 

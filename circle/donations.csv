@@ -1,31 +1,37 @@
 party	donation	donor_name	donor_key	addr1	addr2	date1	date2
+CSU	BMW	143371.27	Bayerische Motoren Werke AG	Petuelring 130	80788 München	2014-02-25	2014-02-26
 FDP	SUEDWESTMETALL	80000.0	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22 - 24	70597 Stuttgart	2013-12-20	2013-12-20
-FDP	R&W	200000.0	R&W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2013-12-17	2013-12-18
-SPD	EVONIK	90000.0	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2013-11-15	2013-11-18
-FDP	VBM	150000.0	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-Straße 5	80333 München	2013-10-16	2013-10-23
-CSU	VBM	565000.0	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-Straße 5	80333 München	2013-10-15	2013-10-17
-FDP	KLATTEN	70000.0	Frau Susanne Klatten,	Günther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
-FDP	QUANDT	70000.0	Frau Johanna Quandt,	Günther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
-FDP	QUANDT	70000.0	Herr Stefan Quandt,	Günther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+FDP	SÜDWESTMETALL	80000.0	SÃ¼dwestmetall Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.	LÃ¶ffelstraÃe 22 - 24	70597 Stuttgart	2013-12-20	2013-12-20
+FDP	R&W	200000.0	R&W Industriebeteiligungen GmbH	Lindenallee 78	50968 KÃ¶ln	2013-12-17	2013-12-18
+SPD	EVONIK	90000.0	Evonik Industries AG	Rellinghauser StraÃe 1 - 11	45128 Essen	2013-11-15	2013-11-18
+FDP	VBM	150000.0	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2013-10-16	2013-10-23
+CSU	VBM	565000.0	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2013-10-15	2013-10-17
+FDP	KLATTEN	70000.0	Frau Susanne Klatten,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+FDP	QUANDT	70000.0	Frau Johanna Quandt,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+FDP	QUANDT	70000.0	Herr Stefan Quandt,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
 CDU	QUANDT/KLATTEN	230000.0	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
 CDU	QUANDT/KLATTEN	230000.0	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
 CDU	QUANDT/KLATTEN	230000.0	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
 CDU	MAV	60000.0	Märkischer Arbeitgeberverband e.V.	Erich-Nörrenberg-Straße 1	58636 Iserlohn	2013-08-19	2013-08-23
-FDP	VCI	64000.0	Verband der Chemischen Industrie e.V. (VCI)	Mainzer Landstraße 55	60329 Frankfurt am Main	2013-08-06	2013-08-15
-CDU	VCI	100000.0	Verband der Chemischen Industrie e.V. (VCI)	Mainzer Landstraße 55	60329 Frankfurt am Main	2013-07-26	2013-08-08
+CDU	MAV	60000.0	MÃ¤rkischer Arbeitgeberverband e.V.	Erich-NÃ¶rrenberg-StraÃe 1	58636 Iserlohn	2013-08-19	2013-08-23
+FDP	VCI	64000.0	Verband der Chemischen Industrie e.V. (VCI)	Mainzer LandstraÃe 55	60329 Frankfurt am Main	2013-08-06	2013-08-15
+CDU	VCI	100000.0	Verband der Chemischen Industrie e.V. (VCI)	Mainzer LandstraÃe 55	60329 Frankfurt am Main	2013-07-26	2013-08-08
 MLPD	MÖLLER	110000.0	Herr Lüder Möller	Morkerkestraße 17	23564 Lübeck	2013-07-25	2013-07-29
-CDU	LANGMANN	130000.0	Herr Prof. Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2013-07-18	2013-07-25
+MLPD	Müller	110000.0	Herr LÃ¼der MÃ¶ller	MorkerkestraÃe 17	23564 LÃ¼beck	2013-07-25	2013-07-29
+CDU	LANGMANN	130000.0	Herr Prof. Dr. Hans-Joachim Langmann	MerckstraÃe 40	64342 Seeheim-Jugenheim	2013-07-18	2013-07-25
 CDU	HERRENKNECHT	70000.0	Herr Dr. Ing. E.h. Martin Herrenknecht	Waldweg 9	77963 Schwanau	2013-07-09	2013-07-11
 CDU	NÄDER	100000.0	Herr Prof. Hans Georg Näder	Am Weinberg 2	37115 Duderstadt	2013-07-04	2013-07-11
-CDU	METALLNRW	60000.0	Verband der Elektro- und Metallindustrie NRW e.V.	Uerdinger Straße 58 - 62	40474 Düsseldorf	2013-06-27	2013-08-29
-FDP	METALLNRW	60000.0	Verband der Metall- und Elektroindustrie NRW e.V.	Uerdinger Straße 58-62	40474 Düsseldorf	2013-06-27	2013-06-28
+CDU	NÄDER	100000.0	Herr Prof. Hans Georg NÃ¤der	Am Weinberg 2	37115 Duderstadt	2013-07-04	2013-07-11
+CDU	METALLNRW	60000.0	Verband der Elektro- und Metallindustrie NRW e.V.	Uerdinger StraÃe 58 - 62	40474 DÃ¼sseldorf	2013-06-27	2013-08-29
+FDP	METALLNRW	60000.0	Verband der Metall- und Elektroindustrie NRW e.V.	Uerdinger StraÃe 58-62	40474 DÃ¼sseldorf	2013-06-27	2013-06-28
 CDU	BERENBERG	100000.0	Berenberg Bank Joh. Berenberg, Gossler & Co. KG	Neuer Jungfernstieg 20	20354 Hamburg	2013-06-10	2013-06-13
 SPD	SÜSSELBECK	80000.0	Frau Marga Süsselbeck	An der Lister Kirche 2	30163 Hannover	2013-06-06	2013-07-01
+SPD	SÜSSELBECK	80000.0	Frau Marga SÃ¼sselbeck	An der Lister Kirche 2	30163 Hannover	2013-06-06	2013-07-01
 CDU	DAIMLER	100000.0	Daimler AG	70546 Stuttgart		2013-04-30	2013-04-30
 SPD	DAIMLER	100000.0	Daimler AG	70546 Stuttgart		2013-04-26	2013-04-26
-CSU	BMW	143817.65	Bayerische Motoren Werke AG	Petuelring 130	80809 München	2013-03-05	2013-03-05
-SPD	BMW	107376.06	Bayerische Motoren Werke AG	Petuelring 130	80809 München	2013-03-04	2013-03-04
-FDP	BMW	69081.24	Bayerische Motoren Werke AG	Petuelring 130	80809 München	2013-02-19	2013-02-19
+CSU	BMW	143817.65	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-03-05	2013-03-05
+SPD	BMW	107376.06	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-03-04	2013-03-04
+FDP	BMW	69081.24	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-02-19	2013-02-19
 CDU	SÜDWESTMETALL	90000.0	SÃ¼dwestmetall Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.	LÃ¶ffelstraÃe 22 - 24	70597 Stuttgart	2012-12-27	2013-01-07
 FDP	TEXTILNORDWEST	65000.0	Verband der Nordwestdeutschen Textil- und Bekleidungsindustrie e.V.	MoltkestraÃe 19	48151 MÃ¼nster	2012-12-14	2012-12-17
 MLPD	PENTZ	115000.0	Conrad und Dorit von Pentz	WerftstraÃe 33	26382 Wilhelmshaven	2012-10-29	2012-11-01
