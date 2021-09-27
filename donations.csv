@@ -1,293 +1,554 @@
-#Partei	Spende in EUR	Spender	Spender-ID	Straße	Stadt	Land	Eingang der Spende	Eingang der Anzeige	Wahlperiode	Lat	Lng
-MLPD	100000	Frau Lina Dachner	DACHNER	Schillerstraße 19	76135 Karlsruhe	Deutschland	29.12.11	30.12.11	17		
-MLPD	113969.15	Frau Dr. Irene Nierstenhöfer	NIERSTENHOEFER	Auf der Altstätte 1C	44369 Dortmund	Deutschland	28.12.11	30.12.2011	17		
-FDP 	80000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	22.12.11	23.12.11	17		
-CSU 	320000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	21.12.11	23.12.11	17		
-GRÜNE	60000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	07.10.11	13.10.11	17		
-SPD	60000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	07.10.11	12.10.11	17		
-CDU	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	07.10.11	11.10.11	17		
-CDU 	60000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	METALLNRW	Uerdinger Str. 58-62	40474 Düsseldorf 	Deutschland	31.08.11	02.09.11	17		
-SPD 	150000	Daimler AG	DAIMLER		70546 Stuttgart 	Deutschland	10.08.11	12.08.11	17		
-CDU 	150000	Daimler AG	DAIMLER		70546 Stuttgart 	Deutschland	10.08.11	10.08.11	17		
-GRÜNE	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	01.07.11	05.07.11	17		
-CDU 	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	01.07.11	05.07.11	17		
-CDU 	100000	Berenberg Bank Joh. Berenberg, Gossler & Co.	BERENBERG	Neuer Jungfernstieg 20	20354 Hamburg	Deutschland	01.07.11	04.07.11	17		
-FDP 	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	01.07.11	04.07.11	17		
-SPD 	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	01.07.11	01.07.11	17		
-CSU 	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	30.06.11	01.07.11	17		
-FDP	50500	REUTAX AG	REUTAX	Kurfürsten-Anlage 34-36	69115 Heidelberg	Deutschland	04.03.11	11.03.11	17		
-SPD 	95338	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	23.02.11	23.02.11	17		
-FDP 	65129	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	23.02.11	23.02.11	17		
-CDU 	56129	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	23.02.11	24.02.11	17		
-CSU 	142332	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	23.02.11	24.02.11	17		
-FDP	75000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	23.12.10	06.01.11	17		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	28.12.10	28.12.10	17		
-FDP 	80000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	07.12.10	08.12.10	17		
-CSU 	300000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	06.12.10	07.11.10	17		
-FDP 	60000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	09.11.10	10.11.10	17		
-CDU 	100000	Berenberg Bank Joh. Berenberg, Gossler & Co.	BERENBERG	Neuer Jungfernstieg 20	20354 Hamburg	Deutschland	05.11.10	08.11.10	17		
-CDU 	100000	Adolf Würth GmbH & Co. KG	WÜRTH	Reinhold-Würth-Straße 12-17	74653 Künzelsau	Deutschland	27.10.10	29.10.10	17		
-DVU 	1030898	Dr. Gerhard Frey	FREY	Paosostraße 2	81243 München	Deutschland	20.10.10	25.10.10	17		
-NPD 	150225	Verein zur Pflege nationaler Politik e.V.	VPNP	Grüntenweg 14	72622 Nürtingen	Deutschland	15.09.10	29.09.10	17		
-CDU 	160000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	METALLNRW	Uerdinger Str. 58-62	40474 Düsseldorf 	Deutschland	05.08.10	27.08.10	17		
-FDP 	65000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main 	Deutschland	17.08.10	18.08.10	17		
-GRÜNE	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	12.08.10	16.08.10	17		
-CDU 	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	13.08.10	13.08.10	17		
-FDP 	50001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	11.08.10	12.08.10	17		
-SPD 	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	12.08.10	12.08.10	17		
-CSU 	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München 	Deutschland	08.07.10	13.07.10	17		
-FDP 	75000	Allfinanz Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main 	Deutschland	06.07.10	12.07.10	17		
-LINKE	100000	Herr Dr. Friedhelm Holz	HOLZ	Fritz-Reuter-Weg 7	49214 Bad Rothenfelde 	Deutschland	27.05.10	03.06.10	17		
-LINKE	75000	Herr Dr. Friedhelm Holz	HOLZ	Fritz-Reuter-Weg 7	49214 Bad Rothenfelde 	Deutschland	21.05.10	02.06.10	17		
-SPD 	150000	Daimler AG	DAIMLER		70546 Stuttgart 	Deutschland	11.05.10	17.05.10	17		
-CDU 	150000	Daimler AG	DAIMLER		70546 Stuttgart 	Deutschland	10.05.10	12.05.10	17		
-FDP 	60000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	METALLNRW	Uerdinger Str. 58-62	40474 Düsseldorf 	Deutschland	12.04.10	19.04.10	17		
-FDP 	55886	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	26.02.10	26.02.10	17		
-SPD 	140034	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	25.02.10	26.02.10	17		
-CDU 	133236	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	24.02.10	25.02.10	17		
-CSU 	148718	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	25.02.10	25.02.10	17		
-CDU 	125000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main 	Deutschland	10.02.10	12.02.10	17		
-CDU 	75000	Allfinanz Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main 	Deutschland	10.02.10	12.02.10	17		
-CDU	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	28.12.09	29.12.09	17		
-CDU	150000	Frau Johanna Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	01.10.09	02.10.09	17		
-CDU	150000	Herr Stefan Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	01.10.09	02.10.09	17		
-CDU	150000	Frau Susanne Klatten	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	01.10.09	02.10.09	17		
-FDP	300000	Substantia AG	SUBSTANTIA	Berliner Allee 21	40212 Düsseldorf	Deutschland	13.10.09	19.10.09	17		
-NPD	140500	Herr Robert Weber	WEBER	Hanfsack 4	98634 Mehmels	Deutschland	09.09.09	14.09.09	16		
-FDP	50500	REUTAX AG	REUTAX	Kurfürsten-Anlage 34 - 36	69115 Heidelberg	Deutschland	22.09.09	24.09.09	16		
-CDU	261800	YOC AG	YOC	Karl-Liebknecht-Straße 1	10178 Berlin	Deutschland	05.08.09	05.08.09	16		
-CDU	60001	Allianz Versicherungs-AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	04.08.09	07.08.09	16		
-CDU	200000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28	20097 Hamburg	Deutschland	06.08.09	07.08.09	16		
-CDU	150000	FERRING Arzneimittel GmbH	FERRING	Fabrikstraße 7	24103 Kiel	Deutschland	06.08.09	07.08.09	16		
-CDU	60000	Märkischer Arbeitgeberverband e. V.	MAV	Körnerstraße 25	58095 Hagen	Deutschland	13.07.09	11.08.09	16		
-CDU	120000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	11.08.09	18.08.09	16		
-CDU	100000	Allfinanz Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	11.08.09	18.08.09	16		
-FDP	50001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	31.07.09	03.08.09	16		
-FDP	300000	Substantia AG	SUBSTANTIA	Berliner Allee 21	40212 Düsseldorf	Deutschland	05.08.09	06.08.09	16		
-SPD	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München	Deutschland	04.08.09	05.08.09	16		
-CSU	70000	Verein der Bayerischen Chemischen Industrie e.V.	VBCI	Innstraße 15	81679 München	Deutschland	04.08.09	05.08.09	16		
-GRÜNE	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München	Deutschland	03.08.09	04.08.09	16		
-CDU	106000	Berenberg Bank Joh. Berenberg, Gossler & Co.	BERENBERG	Neuer Jungfernstieg 20	20354 Hamburg	Deutschland	08.07.09	08.07.09	16		
-CDU	70000	Dr.-Ing. E. h. Martin Herrenknecht	HERRENKNECHT	Waldweg 9	77963 Schwanau	Deutschland	10.07.09	15.07.09	16		
-CDU	100000	Verband der Chemischen Industrie e.V.	VCI	Karlstraße 21	60329 Frankfurt am Main	Deutschland	30.07.09	31.07.09	16		
-FDP	150000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	30.06.09	06.07.09	16		
-FDP	100000	Allfinanz Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	30.06.09	06.07.09	16		
-FDP	150000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	07.07.09	09.07.09	16		
-CSU	116317	Firma Scheffel Grund GmbH	SCHEFFEL	Lilienthalallee 25	80939 München	Deutschland	01.07.09	14.07.10	16		
-CSU	600000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5	80333 München	Deutschland	03.07.09	06.07.09	16		
-CSU	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.07.09	30.07.09	16		
-AGFG	103135	Dr. Rath Education Services B.V.	RATH	Sourethweg 9	64 22 PC Heerlen	Niedlerlande	27.06.09	09.07.09	16		
-CDU	200000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28	20097 Hamburg	Deutschland	23.06.09	25.06.09	16		
-CDU	170000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	METALLNRW	Uerdinger Straße 58	40474 Düsseldorf	Deutschland	10.06.09	15.06.09	16		
-CDU	150000	Daimler AG	DAIMLER	Mercedesstraße 137	70327 Stuttgart	Deutschland	03.06.09	05.06.09	16		
-FDP	200000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60325 Frankfurt am Main	Deutschland	22.06.09	25.06.09	16		
-SPD	150000	Daimler AG	DAIMLER		70546 Stuttgart	Deutschland	02.06.09	03.06.09	16		
-FDP	250000	Substantia AG	SUBSTANTIA	Berliner Allee 21	40212 Düsseldorf	Deutschland	14.04.09	20.04.09	16		
-CDU	60000	Bertelsmann AG	BERTELSMANN	Carl-Bertelsmann-Straße 270	33311 Gütersloh	Deutschland	09.04.09	15.04.09	16		
-FDP	50500	REUTAX AG	REUTAX	Kurfürsten-Anlage 34-36	69115 Heidelberg	Deutschland	16.04.09	24.04.09	16		
-AGFG	83750	Dr. Rath Health Programs B.V.	RATH	Sourethweg 9	6422 PC Heerlen	Niedlerlande	31.12.08	07.05.09	16		
-CDU	200000	Deutsche Bank AG	DEUTSCHEBANK	Theodor-Heuss-Allee 70	60486 Frankfurt am Main	Deutschland	20.03.09	24.03.09	16		
-CDU	100000	Herr Christoph Alexander Kahl	KAHL	Pferdmengesstraße 3	50968 Köln	Deutschland	03.03.09	05.03.09	16		
-SPD	151345	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München	Deutschland	20.02.09	23.02.09	16		
-CSU	146776	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München	Deutschland	18.02.09	19.02.09	16		
-CDU	110209	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München	Deutschland	23.02.09	24.02.09	16		
-FDP	54043	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München	Deutschland	16.02.09	26.02.09	16		
-CDU	200000	Clou Container Leasing GmbH	CLOU	Harvestehuder Weg 18	20148 Hamburg	Deutschland	13.01.09	14.01.09	16		
-CDU	70000	Evonik Industries AG	EVONIK	Rellinghauser Straße 1-11	45128 Essen	Deutschland	28.01.09	28.01.09	16		
-SPD	100000	Evonik Industries AG	EVONIK	Rellinghauser Straße 1-11	45128 Essen	Deutschland	27.01.09	28.01.09	16		
-AGFG	77750	Dr. Rath Health Programs B.V.	RATH	Sourethweg 9	6422 PC Heerlen	Niedlerlande	18.12.08	13.01.09	16		
-CDU	100000	Allfinanz Deutsche Vermögensberatung AG 	DVAG	Münchener Straße 1 	60329 Frankfurt am Main 	Deutschland	10.12.08	11.12.08	16		
-CDU	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24 	70597 Stuttgart	Deutschland	19.12.08	30.12.08	16		
-CDU	100000	Schoeller Holdings Ltd. 	SCHÖLLER	Dodekanison Street	Limassol 3507	Zypern	17.12.08	07.01.09	16		
-CDU	100000	Berenberg Bank Joh. Berenberg, Gossler & Co.	BERENBERG	Neuer Jungfernstieg 20 	20354 Hamburg	Deutschland	23.12.08	06.01.09	16		
-CDU	93489	Gießner Bauunternehmung GmbH 	GIESSNER	Bruno-Bürgel-Weg 100 	12439 Berlin	Deutschland	31.12.08	07.01.09	16		
-SPD	100000	Deutsche Bank AG 	DEUTSCHEBANK	Theodor-Heuss-Allee 70	60486 Frankfurt am Main	Deutschland	08.12.08	10.12.08	16		
-FDP	200000	Deutsche Bank AG 	DEUTSCHEBANK	Taunusanlage 12	60325 Frankfurt am Main	Deutschland	05.12.08	11.12.08	16		
-FDP	100000	Allfinanz Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	15.12.08	17.12.08	16		
-CSU	57000	Verein der Bayerischen Chemischen Industrie e.V.	VBCI	Innstraße 15 	81679 München	Deutschland	30.12.08	05.01.09	16		
-AGFG 	69750	Dr. Rath Health Programs B.V.	RATH	Sourethweg 9	6422 PC Heerlen 	Niedlerlande	19.11.08	28.11.08	16		
-FDP	250000	VM Holding Aktiengesellschaft	SUBSTANTIA	Berliner Allee 121	40212 Düsseldorf 	Deutschland	15.10.08	20.10.08	16		
-CDU	200000	Deutsche Bank AG	DEUTSCHEBANK	Theodor-Heuss-Allee 70 	60486 Frankfurt am Main 	Deutschland	06.10.08	08.10.08	16		
-AGFG 	88591	Dr. Rath Education Services B.V.	RATH	Sourethweg 9	6422 PC Heerlen 	Niedlerlande	29.10.08	31.10.08	16		
-AGFG	61750	Dr. Rath Health Programs B.V. 	RATH	Sourethweg 9 	6422 PC Heerlen	Niedlerlande	10.10.08	21.10.08	16		
-CSU	430000	Clair Immobilien Deutschland GmbH	CLAIR	Pacellistraße 4	80333 München	Deutschland	22.09.08	26.09.08	16		
-CSU	390000	Mercator Verwaltung GmbH	MERCATOR	Promenadeplatz 12	80333 München 	Deutschland	22.09.08	26.09.08	16		
-CDU	71400	EGGERT GROUP GmbH & Co. KG	EGGERT	Benrather Straße 18-20	40213 Düsseldorf 	Deutschland	23.09.08	06.10.08	16		
-CDU	100000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	OPPENHEIM	Unter Sachsenhausen 4	50667 Köln	Deutschland	05.08.08	05.08.08	16		
-CDU	70000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	METALLNRW	Uerdinger Straße 56-62	40474 Düsseldorf	Deutschland	30.07.08	12.08.08	16		
-FDP	100000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	OPPENHEIM	Unter Sachsenhausen 4	50667 Köln 	Deutschland	01.08.08	05.08.08	16		
-MLPD	70000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	24.06.08	10.07.08	16		
-CSU	60001	Allianz SE 	ALLIANZ	Königinstraße 28	80802 München	Deutschland	15.07.08	16.07.08	16		
-GRÜNE	60001	Allianz SE, Repräsentanz	ALLIANZ	Pariser Platz 6	10117 Berlin	Deutschland	15.07.08	16.07.08	16		
-FDP	50001	Allianz Versicherungs-AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	14.07.08	17.07.08	16		
-SPD	60001	Allianz SE	ALLIANZ	Königinstraße 28 	80802 München	Deutschland	15.07.08	17.07.08	16		
-CDU	60001	Allianz SE	ALLIANZ	Königinstraße 28 	80802 München	Deutschland	15.07.08	18.07.08	16		
-CDU	150000	Daimler AG 	DAIMLER		70546 Stuttgart	Deutschland	17.06.08	18.06.08	16		
-SPD	150000	Daimler AG	DAIMLER		70546 Stuttgart	Deutschland	17.06.08	19.06.08	16		
-AGFG	50500	Dr. Rath Health Programs B.V.	RATH	Sourethweg 9	6422 PC Heerlen	Niedlerlande	30.05.08	20.06.08	16		
-MLPD	330000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	20.05.08	20.06.08	16		
-FDP	75000	Herr Dr. Cornelius Boersch	BOERSCH	Dufourstraße 121	CH-9001 St.Gallen	Deutschland	20.05.08	20.05.08	16		
-CSU	540000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	02.04.08	04.04.08	16		
-FDP	100000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	04.04.08	09.04.08	16		
-CDU	100000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main	Deutschland	20.03.08	26.03.08	16		
-SPD	100000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main	Deutschland	25.03.08	28.03.08	16		
-CDU	100000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28 	20097 Hamburg	Deutschland	31.01.08	08.02.08	16		
-CDU	100000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28 	20097 Hamburg	Deutschland	01.02.08	11.02.08	16		
-CDU	71565	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	26.02.08	27.02.08	16		
-SPD	141328	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	21.02.08	22.02.08	16		
-CSU	134742	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	21.02.08	22.02.08	16		
-FDP	61146	Bayerische Motorenwerke AG	BMW		Berlin / Bonn	Deutschland	14.02.08	25.02.08	16		
-AGFG	97000	Matthias Rath Limited	RATH	414 Montrose Avenue	Slough, Berkshire, SL 1 4 TJ	Großbritannien	23.08.07	14.02.08	16		
-CDU	100000	Clou Container Leasing GmbH	CLOU	Harvestehuder Weg 18	20148 Hamburg 	Deutschland	10.01.08	16.01.08	16		
-CDU	70000	Evonik Industries AG	EVONIK	Rellinghauser Straße 1-11	45128 Essen	Deutschland	21.01.08	23.01.08	16		
-CDU	75000	Frau Susanne Klatten 	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	28.01.08	29.01.08	16		
-CDU	75000	Frau Johanna Quandt 	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	28.01.08	29.01.08	16		
-CDU	75000	Herr Stefan Quandt 	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	28.01.08	29.01.08	16		
-SPD	100000	Evonik Industries AG	EVONIK	Rellinghauser Straße 1-11	45128 Essen	Deutschland	18.01.08	22.01.08	16		
-CDU	75000	Reederei Claus-Peter Offen GmbH & Co. 	OFFEN	Bleichenbrücke 10 	20354 Hamburg	Deutschland	15.11.07	19.11.07	16		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V. 	SÜDWESTMETALL	Löffelstraße 22-24 	70597 Stuttgart	Deutschland	21.12.07	27.12.07	16		
-AGFG	60000	Dr. Rath Education Services B.V.	RATH	Sourethweg 9 	NL-6422 PC Heerlen	Deutschland	08.02.07	30.11.07	16		
-AGFG	150000	Dr. Rath Health Programms B.V.	RATH	Sourethweg 9 	NL-6422 PC Heerlen	Deutschland	08.10.07	30.11.07	16		
-AGFG	55000	Matthias Rath Limited 	RATH	414 Montrose Avenue	Slough Berkshire, SL 1 4TJ	Großbritannien	30.10.07	30.11.07	16		
-FDP	90000	Herr Kurt Fordan 	FORDAN	Adalbert-Stifter-Straße 41 	81925 München	Deutschland	06.12.07	17.12.07	16		
-FDP	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24 	70597 Stuttgart	Deutschland	21.12.07	27.12.07	16		
-FDP	54000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	60329 Frankfurt am Main	Deutschland	28.12.07	09.01.08	16		
-FDP	200000	Deutsche Bank AG 	DEUTSCHEBANK	Taunusanlage 12 	60325 Frankfurt/Main	Deutschland	18.10.07	22.10.07	16		
-CDU	65000	Frau Ann Kathrin Linsenhoff 	LINSENHOFF	Schwalbacher Straße 	61476 Kronberg	Deutschland	22.10.07	24.10.07	16		
-CSU	100000	Herr Michael Stoschek 	STOSCHEK	Schleifschrot 	96483 Ahorn	Deutschland	25.09.07	31.10.07	16		
-CDU	200000	Deutsche Bank AG 	DEUTSCHEBANK	Taunusanlage 12 	60325 Frankfurt/Main	Deutschland	10.08.07	10.08.07	16		
-AGFG	60000	Dr. Rath Education Services B.V.	RATH	Sourethweg 9 	NL-6422 PC Heerlen	Deutschland	08.02.07	07.08.07	16		
-AGFG	100000	Dr. Rath Health Programms B.V.	RATH	Sourethweg 9 	NL-6422 PC Heerlen	Deutschland	31.05.07	07.08.07	16		
-CDU	200000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28	20097 Hamburg	Deutschland	11.07.07	16.07.07	16		
-CDU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.07.07	20.07.07	16		
-CSU	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.07.07	20.07.07	16		
-SPD	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.07.07	20.07.07	16		
-FDP	50001	Allianz Versicherungs-AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	17.07.07	20.07.07	16		
-GRÜNE	60001	Allianz SE	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.07.07	20.07.07	16		
-CDU	100000	CAPITAL Lease GmbH	CAPITAL	Harvestehuder Weg 18	20148 Hamburg	Deutschland	05.06.07	05.06.07	16		
-CSU	330000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	18.05.07	22.05.07	16		
-CDU	100000	Verband der Chemischen Industrie e.V.	VBCI	Karlstraße 21	60329 Frankfurt am Main	Deutschland	25.05.07	30.05.07	16		
-FDP	75000	Verband der Chemischen Industrie e.V.	VBCI	Karlstraße 21	60329 Frankfurt am Main	Deutschland	29.05.07	31.05.07	16		
-MLPD	200000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	27.02.07	05.03.07	16		
-CDU	150000	Daimler Chrysler AG	DAIMLER	Epplestra?e 225	70546 Stuttgart 	Deutschland	12.03.07	14.03.07	16		
-SPD	150000	Daimler Chrysler AG	DAIMLER	Epplestra?e 225	70546 Stuttgart 	Deutschland	12.03.07	19.03.07	16		
-AGFG	224030	Dr. Rath Education Services B.V.	RATH	Sourethweg 9 	6422 PC Heerlen	Niedlerlande	21.12.06	01.02.07	16		
-CDU	125000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	01.02.07	02.02.07	16		
-SPD	64134	Herr Ralf Pollmeier	POLLMEIER	Pferdsdorferweg 6	99831 Creuzburg	Deutschland	31.12.06	06.02.07	16		
-CDU	94214	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.06	21.02.07	16		
-CSU	95321	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.06	21.02.07	16		
-SPD	72380	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.06	22.02.07	16		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart 	Deutschland	08.12.06	11.12.06	16		
-FDP	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	08.12.06	12.12.06	16		
-CDU	100000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main	Deutschland	14.11.06	15.11.06	16		
-SPD	75000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main	Deutschland	15.11.06	17.11.06	16		
-FDP	60000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main	Deutschland	14.11.06	20.11.06	16		
-FDP	200000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60325 Frankfurt am Main	Deutschland	20.10.06	23.10.06	16		
-SPD	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.08.06	31.08.06	16		
-CDU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.08.06	04.09.06	16		
-CSU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.08.06	05.09.06	16		
-GRÜNE	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.08.06	31.08.06	16		
-FDP	50001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.08.06	31.08.06	16		
-SPD	150000	E.ON AG	EON	E.ON Platz 1	40479 Düsseldorf	Deutschland	21.07.06	25.07.06	16		
-CDU	100000	E.ON AG	EON	E.ON Platz 1	40479 Düsseldorf	Deutschland	21.07.06	26.07.06	16		
-CDU	200000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60325 Frankfurt am Main	Deutschland	21.07.06	26.07.06	16		
-CSU	330000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	13.06.06	14.06.06	16		
-MLPD	500000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	09.06.06	20.06.06	16		
-CDU	125000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	08.05.06	10.05.06	16		
-MLPD	50000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	16.03.06	04.04.06	16		
-MLPD	1215000	Herr Michael May 	MAY	Jahnstraße 41	47443 Moers	Deutschland	18.04.06	26.04.06	16		
-CSU	78435	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.05	16.02.06	16		
-CDU	70000	RAG Aktiengesellschaft	RAG	Rellinghauser Str. 1-11	45128 Essen	Deutschland	14.02.06	16.02.06	16		
-SPD	93397	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.05	17.02.06	16		
-SPD	100000	RAG Aktiengesellschaft	RAG	Rellinghauser Str. 1-11	45128 Essen	Deutschland	15.02.06	20.02.06	16		
-CDU	81639	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.05	07.03.06	16		
-CDU	100000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	06.03.06	08.03.06	16		
-FDP	51917	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.05	13.03.06	16		
-CDU	96544	B.A.B. MaxiPoster Werbetürme GmbH	MAXIPOSTER	Theodorstr. 42-90, Haus 6	22761 Hamburg	Deutschland	04.10.05	04.11.05	16		
-CDU	2334526	Christlich-Soziale Union in Bayern	CSU	Nymphenburger Str. 64 	80335 München	Deutschland	24.10.05	28.10.05	16		
-CDU	136010	YOC AG	YOC	Dircksenstr. 47	10178 Berlin	Deutschland	21.09.05	07.10.05	16		
-MLPD	614167	Herr Michael May	MAY	Jahnstr. 41	47443 Moers	Deutschland	30.09.05	14.10.05	16		
-CDU	250000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	OPPENHEIM	Unter Sachsenhausen 4	50667 Köln	Deutschland	01.09.05	06.09.05	15		
-FDP	70000	Verband der Chemischen Industrie e.V.	VCI	Karlstr. 23	60329 Frankfurt	Deutschland	06.09.05	07.09.05	15		
-CDU	120000	Frau Johanna Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	06.09.05	12.09.05	15		
-CDU	120000	Frau Susanne Klatten	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	06.09.05	12.09.05	15		
-CDU	120000	Herr Stefan Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	09.09.05	12.09.05	15		
-CDU	63800	AIDA Media Ltd.	AIDA	Einsteinstraße 157	81675 München	Deutschland	07.09.05	16.09.05	15		
-CDU	200000	Herr Prof. Dr. Hermann Schnabel	SCHNABEL	Nordkanalstraße 28	20097 Hamburg	Deutschland	16.09.05	21.09.05	15		
-CDU	98206	Panorama Verlags- und Werbegesellschaft mbH	PANORAMA	Sudbrackstraße 14-18	33611 Bielefeld	Deutschland	16.09.05	21.09.05	15		
-CDU	300000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60262 Frankfurt am Main	Deutschland	10.08.05	12.08.05	15		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	19.08.05	31.08.05	15		
-CDU	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	10.08.05	12.08.05	15		
-CDU	100000	Verband der Chemischen Industrie e.V.	VBCI	Karlstraße 21	60329 Frankfurt	Deutschland	04.08.05	08.08.05	15		
-CDU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	08.08.05	16.08.05	15		
-CSU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	11.08.05	12.08.05	15		
-SPD	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	10.08.05	24.08.05	15		
-SPD	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	08.08.05	15.08.05	15		
-GRÜNE	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	12.08.05	12.08.05	15		
-FDP	50001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	11.08.05	22.08.05	15		
-MLPD	175000	Herr Eberhard Schmid	SCHMID	Hasenbergsteige 5	70178 Stuttgart	Deutschland	08.08.05	16.08.05	15		
-CDU	150000	Commerzbank AG	COMMERZBANK	Kaiserplatz	60311 Frankfurt am Main 	Deutschland	07.07.05	08.07.05	15		
-CDU	125000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	13.07.05	15.07.05	15		
-CDU	125000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	13.07.05	15.07.05	15		
-CSU	400000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	15.07.05	20.07.05	15		
-FDP	60000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	19.07.05	25.07.05	15		
-CDU	100000	E.ON AG	EON	E.ON Platz 1	40479 Düsseldorf	Deutschland	26.07.05	28.07.05	15		
-SPD	150000	E.ON AG	EON	E.ON Platz 1	40479 Düsseldorf	Deutschland	26.07.05	28.07.05	15		
-CDU	200000	Dr. Ing. h. c. F. Porsche AG	PORSCHE	Porscheplatz 1	70435 Stuttgart	Deutschland	27.07.05	29.07.05	15		
-SPD	200000	Dr. Ing. h. c. F. Porsche AG	PORSCHE	Porscheplatz 1	70435 Stuttgart	Deutschland	27.07.05	29.07.05	15		
-SPD	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.11.04	08.12.04	15		
-CDU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.11.04	02.12.04	15		
-CSU	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.11.04	01.12.04	15		
-GRÜNE	60001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.11.04	30.11.04	15		
-FDP	50001	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	29.11.04	02.12.04	15		
-CDU	73080	Abels & Grey, Gesellschaft für strategisches Informations- und Kommunikations-Management mbH	ABELSGREY	Goethestraße 51a	40237 Düsseldorf	Deutschland	07.12.04	17.12.04	15		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	20.12.04	22.12.04	15		
-SPD	71172	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	21.12.04	23.12.04	15		
-CDU	100000	Herr Christoph Alexander Kahl	KAHL	Pferdmengesstr. 3	50968 Köln	Deutschland	30.08.04	07.09.04	15		
-FDP	80000	Victor's Bau + Wert AG	VICTOR	Deutschmühlental 2	66117 Saarbrücken	Deutschland	04.08.04	09.08.04	15		
-BSU	52000	Herr Reiner Sauer	SAUER	Wassermannstraße 18	96052 Bamberg	Deutschland	14.05.04	17.06.04	15		
-CDU	100000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	14.07.04	16.07.04	15		
-CDU	200000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60262 Frankfurt am Main	Deutschland	29.06.04	01.07.04	15		
-FDP	100000	Verband der Metallindustrie Baden-Württemberg	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	04.12.03	22.06.04	15		
-SPD	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	15.04.04	04.05.04	15		
-CDU	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	15.04.04	21.04.04	15		
-CDU	100000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	18.05.04	25.05.04	15		
-CSU	370000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	18.03.04	19.03.04	15		
-CSU	93888	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	18.03.04	29.03.04	15		
-FDP	51483	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	18.03.04	05.04.04	15		
-CDU	50958	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.03	01.04.04	15		
-CDU	60000	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.12.03	26.02.04	15		
-CDU	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	19.12.03	07.01.04	15		
-CDU	75000	Frau Dr. Karin Fischer	FISCHER	Mühlenberger Weg 16	22587 Hamburg	Deutschland	14.01.04	15.01.04	15		
-SPD	60000	Allianz Deutschland AG	ALLIANZ	Königinstr. 28	80802 München	Deutschland	17.12.03	15.01.04	15		
-CDU	200000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60262 Frankfurt am Main	Deutschland	01.12.03	09.12.03	15		
-CDU	100000	FERRING Arzneimittel GmbH	FERRING	Wittland 11	24109 Kiel	Deutschland	08.12.03	11.12.03	15		
-CDU	75000	Frau Dr. Karin Fischer	FISCHER	Mühlenberger Weg 16	22587 Hamburg	Deutschland	19.12.03	29.12.03	15		
-SPD	100000	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60262 Frankfurt am Main	Deutschland	01.12.03	10.12.03	15		
-GRÜNE	60000	Allianz Deutschland AG	ALLIANZ	Königinstraße 28	80802 München	Deutschland	18.12.03	19.12.03	15		
-FDP	980000	Herr Jürgen W. Möllemann	MÖLLEMANN	Coesfeldweg 59	48161 Münster	Deutschland	31.12.02	29.12.03	15		
-CDU	50416	Carat Wiesbaden GmbH & Co. KG Media Service	CARAT	Kreuzberger Ring 19	65205 Wiesbaden	Deutschland	31.12.02	27.08.03	15		
-SPD	65894	Eurolottoclub AG	EUROLOTTO	Am Scheerleck 9	6868 Wecker	Luxemburg	29.05.03	21.07.03	15		
-SPD	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	11.04.03	08.05.03	15		
-CDU	92061	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.02	14.03.03	15		
-CSU	89376	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.02	10.03.03	15		
-SPD	65947	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.02	01.04.03	15		
-FDP	59875	Bayerische Motorenwerke AG	BMW	Petuelring 130	80788 München 	Deutschland	31.12.02	26.03.03	15		
-CSU	500000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	VBM	Max-Joseph-Straße 5 	80333 München	Deutschland	17.04.03	23.04.03	15		
-CDU	150000	Daimler Chrysler AG	DAIMLER	Epplestraße 225	70546 Stuttgart	Deutschland	10.04.03	16.04.03	15		
-CDU	120000	ALTANA AG Herbert-Quandt-Haus	QUANDT	Am Pilgerrain 15	61352 Bad Homburg	Deutschland	30.01.03	06.02.03	15		
-CDU	51130	Deutsche Bank AG	DEUTSCHEBANK	Taunusanlage 12	60262 Frankfurt am Main	Deutschland	07.02.03	13.02.03	15		
-CDU	70000	Eheleute Bernd und Gertraude Puschendorf	PUSCHENDORF	Holstenwall 10	20355 Hamburg	Deutschland	13.02.03	17.02.03	15		
-CDU	75000	Frau Johanna Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	24.01.03	31.01.03	15		
-CDU	75000	Herr Stefan Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	24.01.03	31.01.03	15		
-CDU	75000	Frau Susanne Klatten	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	24.01.03	31.01.03	15		
-CSU 	141369	Pacelli Beteiligungs GmbH & Co. KG	PACELLI	Promenadeplatz 12 	80333 München 	Deutschland	25.10.02	04.11.02	15		
-CDU 	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	SÜDWESTMETALL	Löffelstraße 22-24	70597 Stuttgart	Deutschland	23.08.02	03.09.02	14		
-CDU 	180000	Frau Johanna Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	04.09.02	17.09.02	14		
-CDU 	180000	Herr Stefan Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	04.09.02	17.09.02	14		
-CDU 	170000	Frau Susanne Klatten	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	04.09.02	17.09.02	14		
-CDU 	100000	Robert Bosch GmbH	BOSCH	Robert-Bosch-Platz 1	70839 Gerlingen 	Deutschland	09.09.02	17.09.02	14		
-FDP 	80000	Frau Susanne Klatten	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	12.09.02	17.09.02	14		
-FDP 	70000	Frau Johanna Quandt	QUANDT	Seedammweg 55	61352 Bad Homburg	Deutschland	12.09.02	17.09.02	14		
-GRÜNE 	70000	Ostwind-Verwaltungsgesellschaft mbH	OSTWIND	Dänzergasse 8	93047 Regensburg	Deutschland	15.08.02	20.08.02	14		
-SPD	200000	Tchibo Holding AG	TCHIBO	Überseering 18	22297 Hamburg	Deutschland	04.07.02	09.07.02	14		
+party	donor_key	donation	donor_name	addr1	addr2	date1	date2
+CDU	SCHAMBACH	300000	Stephan Schambach	Am Zirkus 18	10117 Berlin	2021-09-22	2021-09-23
+FDP	LUTON	250000	Luton Verwaltungs GmbH	Friedrichstraße 95	10117 Berlin	2021-09-17	2021-09-20
+CDU	LUTON	250000	Luton Verwaltungs GmbH	Friedrichstraße 95	10117 Berlin	2021-09-17	2021-09-20
+FDP	SIXT	50001	Sixt GmbH & Co. Autovermietung KG	Zugspitzstraße 1	82049 Pullach	2021-09-17	2021-09-20
+GRÜNE	SIXT	50001	Sixt GmbH & Co. Autovermietung KG	Zugspitzstraße 1	82049 Pullach	2021-09-17	2021-09-20
+FDP	THEMIS	100000	Themis Beteiligungs AG	Lil-Dagover-Ring 7	82031 Grünwald	2021-09-16	2021-09-17
+FDP	OBERHOF	51000	Wanja Oberhof	Bayerische Straße 31	10707 Berlin	2021-09-14	2021-09-17
+FDP	MASCHMEYER	200000	Carsten Maschmeyer	Keferstraße 17	80802 München	2021-09-14	2021-09-15
+SPD	MASSIVHOLZ	75000	Pollmeier Massivholz GmbH & Co. KG	Pferdsdorfer Weg 6	99831 Amt Creuzburg	2021-09-13	2021-09-14
+GRÜNE	SCHUURMAN	1250000	Steven Schuurman	Stationsplein 45	3013 AK Rotterdam (Niederlande)	2021-09-07	2021-09-07
+FDP	SPG	52000	SPG & Co. Berlin Projektentwicklungsgesellschaft mbH	Kurfürstendamm 178/179	10707 Berlin	2021-09-03	2021-09-09
+GRÜNE	SCHELS	250000	Sebastian Schels	Kumpfmühler Straße 5	93047 Regensburg	2021-09-03	2021-09-06
+FDP	DROEGE	100000	Droege Group AG	Poststr. 5-6	40213 Düsseldorf	2021-09-02	2021-09-03
+FDP	VÖLKEL	100000	VÖLKEL GmbH	Morsbachtalstr. 20	42855 Remscheid	2021-09-02	2021-09-03
+MLPD	KESSLER	100000	Thomas Keßler	Stockackerstraße 2	72336 Balingen	2021-08-31	2021-09-06
+FDP	MÄHREN	50000	Mähren AG	Kurfürstendamm 150	10709 Berlin	2021-08-26	2021-08-27
+CDU	NÄDER	250000	Professor Otto Max Hans-Georg Näder	Am Weinberg 2	37115 Duderstadt	2021-08-25	2021-08-26
+FDP	HILLEN	100000	Ingo Horst Wilhelm Hillen	Ernst-Schneider-Platz 1	40212 Düsseldorf	2021-08-24	2021-08-25
+FDP	LINK	100000	Harald Link	135 Soi Polo Wireless Road	Bangkok 10330, Thailand	2021-08-24	2021-08-25
+CDU	TRUMPF	60000	TRUMPF GmbH + Co. KG	Johann-Maus-Straße 2	71254 Ditzingen	2021-08-24	2021-08-25
+GRÜNE	DVAG	100000	Deutsche Vermögensberatung AG	Wilhelm-Leuschner-Straße 24	0329 Frankfurt am Main	2021-08-20	2021-08-23
+FDP	WOOLWORTH	100000	Woolworth GmbH	Mönninghoffs Feld 5	59425 Unna	2021-08-18	2021-08-19
+FDP	TEDI	100000	TEDI GMBH & Co. KG	Brackeler Hellweg 301	44309 Dortmund	2021-08-18	2021-08-19
+CDU	DOMMERMUTH	100000	Ralph Dommermuth	Friedensstraße 4	56410 Montabaur	2021-08-18	2021-08-18
+SPD	DVAG	100000	Deutsche Vermögensberatung AG	Wilhelm-Leuschner-Straße 24	0329 Frankfurt am Main    	2021-08-17	2021-08-20
+BASIS	BODE	59270.92	Bode Immobilien GmbH + Co. KG	Havighorster Weg 6	21031 Hamburg	2021-08-16	2021-08-23
+FDP	NÄDER	250000	Professor Hans Georg Näder	Am Weinberg 2	37115 Duderstadt	2021-08-13	2021-08-16
+FDP	DOMMERMUTH	100000	Ralph Dommermuth	Friedensstr. 4	56410 Montabaur	2021-08-13	2021-08-16
+FDP	KOLBINGER	100000	André Kolbinger	Altlandsberger Chaussee 56	15345 Eggersdorf	2021-08-13	2021-08-16
+LINKE	KLARA	55000	Helmtraut Klara	Tegernseestraße 17	12527 Berlin 	2021-08-02	2021-09-15
+FDP	SEIKOWSKY	51000	Fritz Seikowsky	Königinstraße 35	80539 München	2021-07-29	2021-07-30
+CDU	HERRENKNECHT	75000	Dr. Ing. E.h. Martin Herrenknecht	Waldweg 9	77963 Schwanau	2021-07-23	2021-08-19
+CDU	METALLNRW	75000	Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.	Uerdinger Straße 58 - 62	40474 Düsseldorf	2021-07-23	2021-07-28
+FDP	MARSEILLE	51000	Ulrich Horst Marseille	Sportallee 1	22335 Hamburg	2021-07-21	2021-07-23
+CDU	LAPP	100000	Andreas Lapp	Rosentalstraße 56	70563 Stuttgart	2021-07-16	2021-07-21
+CDU	HERRENKNECHT	75000	Dr. Ing. E.h. Martin Herrenknecht	Waldweg 9	77963 Schwanau	2021-07-15	2021-07-19
+CDU	DVAG	300000	Deutsche Vermögensberatung AG	Wilhelm-Leuschner-Straße 24	60329 Frankfurt am Main	2021-07-13	2021-07-15
+FDP	WÜBBEN	100000	Dr. Walter Wübben	Lindenallee 78	50968 Köln	2021-07-09	2021-07-12
+CDU 	DROEGE	300000	Droege Group AG	Poststraße 5-6 	40213 Düsseldorf	2021-07-09	2021-07-12
+FDP	GRÖNER	200000	Gröner 	<span lang="en" xml:lang="en">Family Office</span>	 GmbH	2021-07-07	2021-07-12
+FDP	DVAG	150000	Deutsche Vermögensberatung AG	Wilhelm-Leuschner-Straße 24	60329 Frankfurt am Main	2021-07-07	2021-07-08
+CSU	SIXT	121381.16	Sixt GmbH & Co. Autovermietung KG	Zugspitzstraße 1	82049 Pullach	2021-07-02	2021-07-06
+CDU	QUANDT/KLATTEN	50001	Susanne Klatten	Günther-Quandt-Haus	Seedammweg 55	2021-07-01	2021-07-02
+CDU	QUANDT/KLATTEN	50001	Stefan Quandt	Günther-Quandt-Haus	Seedammweg 55	2021-07-01	2021-07-02
+FDP	SEIDLEIN	51000	Maria-Theresia von Seidlein	Portenlängerstraße 18	82031 Grünwald	2021-06-30	2021-07-01
+SSW	SÜDSCHLESWIG	124238.1	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2021-06-29	2021-06-29
+FDP	HOMMELS	100000	Dr. Klaus Hommels	Via Serlas 21d	CH-7500 St. Moritz	2021-06-25	2021-06-28
+CDU	HOMMELS	100000	Dr. Klaus Hommels	Via Serlas 21d	CH-7500 St. Moritz	2021-06-25	2021-06-25
+GRÜNE	REHM	50001	Florian Rehm	Neuer Weg 9	38302 Wolfenbüttel	2021-06-24	2021-06-29
+CDU	REHM	50000.01	Florian Rehm	Neuer Weg 9	38302 Wolfenbüttel	2021-06-24	2021-06-25
+FDP	REHM	70000	Florian Rehm	Neuer Weg 9	38302 Wolfenbüttel	2021-06-24	2021-06-25
+FDP	MADER	100000	Nico Mader	Argonnenstraße 22	70374 Stuttgart	2021-06-22	2021-06-23
+PARTEI	GLOBALSHOPPING	280007	Global Shopping Collective GmbH	Am Marktplatz 7-8	15806 Zossen	2021-06-18	2021-06-23
+FDP	MIRITZ	51000	Dr. Tillmann Miritz	Merkelstraße 8	37085 Göttingen	2021-06-17	2021-06-18
+GRÜNE	STORCH	68548	Flossbach von Storch AG	Ottoplatz 1	50679 Köln	2021-06-14	2021-06-21
+FDP	STORCH	431452	Flossbach von Storch AG	Ottoplatz 1	50679 Köln	2021-06-14	2021-06-15
+CDU	KAHL	500000	Christoph Alexander Kahl	Marienburger Straße 17	50968 Köln	2021-06-09	2021-06-09
+CDU	VCI	100000	Verband der Chemischen Industrie e. V.	Mainzer Landstraße 55	60329 Frankfurt am Main	2021-05-27	2021-05-27
+FDP	HAGENMEYER	100000	Tobias Hagenmeyer	Kastanienallee 8	50968 Köln	2021-05-24	2021-05-25
+FDP	SCHAMBACH	200000	Stephan Schambach	Am Zirkus 1	10117 Berlin	2021-05-17	2021-05-18
+CDU	TOPOROWICZ	100000	Thomas Frank Maximilian Toporowicz	Friedrich-Springorum-Straße 48	40237 Düsseldorf 	2021-05-14	2021-05-17
+GRÜNE	HANSEN	60000	Frank Hansen	Neumäuerstraße 39/2	74523 Schwäbisch Hall	2021-05-07	2021-05-28
+FDP	KOFLER	750000	Dr. Georg Jakob Kofler	Koppenplatz 9	10115 Berlin	2021-04-29	2021-04-30
+CDU	KÜHNE	70000	Klaus-Michael Kühne	Dorfstraße 50	CH-8834 Schindellegi	2021-04-27	2021-04-29
+CDU	HAUSBESITZ	60000	ANH Hausbesitz GmbH & Co KG	Neheimer Markt 2	59755 Arnsberg	2021-04-13	2021-04-14
+GRÜNE	SCHMIDT	1000000	Moritz Schmidt	Wolgaster Straße 130b	17489 Greifswald	2021-04-12	2021-04-13
+FDP	SCWARZ-SCHÜTTE	51000	Patrick Anton Walther Schwarz-Schütte	Rotthäuser Weg 30	Haus Drei Linden	2021-04-07	2021-04-08
+SSW	SÜDSCHLESWIG	124291.92	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2021-03-31	2021-04-06
+GRÜNE	RECKIN	52000	Jürgen Reckin	Mollenstorfer Weg 2	17217 Penzlin	2021-03-17	2021-03-18
+FDP	INHOLTE	50001	Ludgerus Inholte	Schatzmeisterstraße 15	22043 Hamburg	2021-03-09	2021-03-10
+CDU	SCWARZ-SCHÜTTE	100000	Patrick Schwarz-Schütte	Rotthäuser Weg 30	40629 Düsseldorf	2021-02-24	2021-02-25
+CDU	ADENAUER	50001	Dr. Patrick Adenauer	Holzmarkt 1	50676 Köln	2021-02-23	2021-02-23
+CDU	SCHAMBACH	70000	Stephan Schambach	Am Zirkus 18	10117 Berlin	2021-02-22	2021-02-23
+GRÜNE	HANSEN	60000	Frank Hansen	Neumäuerstr. 39/2	74523 Schwäbisch Hall	2021-02-17	2021-02-22
+GRÜNE	SCHWARZ	500000	Antonis Schwarz	Schinkestraße 9	12047 Berlin	2021-02-15	2021-02-16
+CDU	OETKER	100000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2021-02-01	2021-02-02
+CDU	LÜDICKE	100000	Barbara Braun-Lüdicke	Tränkelücke 1	34212 Melsungen	2021-01-21	2021-01-26
+SSW	SÜDSCHLESWIG	124569.21	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2021-01-08	2021-01-12
+BASIS	WEILAND	60000	Weiland Stallbau GmbH & Co. KG	Hilberlachestraße 8	37242 Bad Sooden-Allendorf	2020-12-30	2021-01-04
+CDU	GRÖNER	500000	Gröner Family Office GmbH	Binger Straße 40	14197 Berlin	2020-12-30	2020-12-31
+CDU	KAHL	225000	Christoph Alexander Kahl	Marienburger Str. 17	50968 Köln	2020-12-29	2020-12-29
+SPD	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V. 	Max-Joseph-Straße 5	80333 München	2020-12-23	2020-12-30
+FDP	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V. 	Max-Joseph-Straße 5	80333 München	2020-12-23	2020-12-29
+GRÜNE	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V. 	Max-Joseph-Straße 5	80333 München	2020-12-23	2020-12-28
+CSU	VBM	340000	Verband der Bayerischen Metall- und Elektroindustrie e. V. 	Max-Joseph-Straße 5	80333 München	2020-12-23	2020-12-24
+CDU	SÜDWESTMETALL	100000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Türlenstraße 2	70191 Stuttgart	2020-12-21	2020-12-22
+FDP	CHRIST	51000	Harald Christ	Brandenburgische Straße 16	10707 Berlin	2020-11-18	2020-11-18
+SSW	SÜDSCHLESWIG	124226.95	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2020-10-27	2020-10-29
+CDU	KLARTEXT	51855.65	Klartext GmbH	Grafik Messe Event	Siemensring 88	2020-09-30	2020-10-13
+MLPD	HUBER	60000	Klaus Huber	Lübbener Straße 10	10997 Berlin	2020-07-15	2020-07-20
+CDU	QUANDT/KLATTEN	50001	Stefan Quandt	Günther-Quandt-Haus	Seedammweg 55	2020-07-09	2020-07-13
+CDU	QUANDT/KLATTEN	50001	Susanne Klatten	Günther-Quandt-Haus	Seedammweg 55	2020-07-01	2020-07-02
+SSW	SÜDSCHLESWIG	124335.27	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2020-06-26	2020-07-01
+CDU	MOERS	70000	Wolfgang von Moers	Mehlemer Straße 5	50968 Köln	2020-05-06	2020-05-07
+SSW	SÜDSCHLESWIG	123790.62	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2020-03-27	2020-03-31
+CDU	BÜCHER	79000	Dietmar Bücher	Veitenmühlweg 2	65510 Idstein	2020-03-17	2020-03-24
+CDU	GRÖNER	300000	Christoph Gröner	Wilmersdorfer Straße 39	10627 Berlin	2020-03-06	2020-03-10
+CDU	KAHL	75000	Christoph Alexander Kahl	Marienburger Str. 17	50968 Köln	2020-02-11	2020-02-12
+AfD	KRAWINKEL	100000	Christian Krawinkel	Schuetzenstraße 18	10117 Berlin	2020-02-07	2020-02-10
+MLPD	STEIN-GALLACH	50031.24	Gisela Stein-Gallach	Paßweg 11	44867 Bochum	2020-01-31	2020-02-04
+CDU	SACHSENMILCH	100000	Sachsenmilch Anlagen Holding GmbH	An den Breiten	01454 Wachau	2020-01-30	2020-02-03
+SSW	SÜDSCHLESWIG	123701.41	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2020-01-15	2020-01-20
+GRÜNE	SÜDWESTMETALL	100000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Türlenstraße 2	70191 Stuttgart	2019-12-27	2020-01-07
+CDU	SÜDWESTMETALL	140000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Türlenstraße 2	70191 Stuttgart	2019-12-27	2019-12-27
+GRÜNE	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V.	Max-Joseph-Straße 5	80333 München	2019-12-27	2019-12-30
+FDP	SÜDWESTMETALL	100000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Türlenstraße 2	70191 Stuttgart	2019-12-27	2019-12-27
+SPD	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V.	Max-Joseph-Straße 5	80333 München	2019-12-24	2020-01-06
+FDP	VBM	60000	Verband der Bayerischen Metall- und Elektroindustrie e. V.	Max-Joseph-Straße 5	80333 München	2019-12-24	2019-12-27
+CSU	VBM	390000	Verband der Bayerischen Metall- und Elektroindustrie e. V.	Max-Joseph-Straße 5	80333 München	2019-12-23	2019-12-24
+FDP	WIBAD	100000	WI Bad Wörishofen GmbH	Fidel-Kreuzer-Straße 4	86825 Bad Wörishofen	2019-12-16	2019-12-16
+CDU	GROTH	100000	Herr Klaus Groth	Kurfürstendamm 63	10707 Berlin	2019-11-21	2019-11-25
+LINKE	HEROLD	60000	Herr Helmuth Herold	Carl-Zeiß-Straße 11	01129 Dresden	2019-11-15	2019-11-25
+CDU	EVONIK	80000	Evonik Industries AG	Rellinghauser Straße 1-11	45128 Essen	2019-11-15	2019-11-25
+SPD	EVONIK	80000	Evonik Industries AG	Rellinghauser Straße 1-11	45128 Essen	2019-11-15	2019-11-18
+SSW	SÜDSCHLESWIG	122905	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2019-09-25	2019-09-26
+MLPD	MÜLLER-HORN	50055	Herr Kai Müller-Horn	Oberratherstraße 52	40472 Düsseldorf	2019-07-23	2019-07-30
+SPD	OPOLKA	76650	Herr Rainer Opolka	Am Großen Glubigsee	15864 Wendisch-Rietz	2019-07-11	2019-07-12
+CDU	QUANDT/KLATTEN	50001	Frau Susanne Klatten	Günther-Quandt-Haus	Seedammweg 55	2019-07-10	2019-07-11
+CDU	QUANDT/KLATTEN	50001	Herr Stefan Quandt	Günther-Quandt-Haus	Seedammweg 55	2019-07-01	2019-07-02
+SSW	SÜDSCHLESWIG	122912	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2019-06-24	2019-06-28
+CDU	METALLNRW	55000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.	Uerdinger Straße 58 - 62	40474 Düsseldorf	2019-06-13	2019-06-17
+MLPD	HOFMANN	60000	Herr Fritz Hofmann	Fröbelstraße 7	99817 Eisenach	2019-04-15	2019-04-25
+FDP	R&W	100000	Firma R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2019-04-09	2019-04-10
+VOLT	BURCHARD/OLDENDORFF	95000	Herr Christian Burchard Max Oldendorff	Heimhuder Strasse 9	20148 Hamburg	2019-03-27	2019-04-02
+SSW	SÜDSCHLESWIG	122968	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2019-03-25	2019-04-01
+CSU	NEMETSCHEK	95000	Herr Prof. Georg Nemetschek	Müllerstraße 7	80469 München	2019-03-01	2019-03-04
+SSW	SÜDSCHLESWIG	122904	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2019-01-25	2019-01-30
+GRÜNE	SCHWARZ	65000	Herr Antonis Schwarz	Schinkestraße 9	12047 Berlin	2019-01-28	2019-01-30
+GRÜNE	HANSEN	120000	Herr Frank Hansen	Neumäuerstraße 39/2	74523 Schwäbisch Hall	2019-01-09	2019-01-16
+SPD	SÜDWESTMETALL	60000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22-24	70597 Stuttgart	2018-12-28	2019-01-07
+SPD	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2018-12-27	2019-01-03
+FDP	SÜDWESTMETALL	110000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22-24	70597 Stuttgart	2018-12-28	2019-01-02
+GRÜNE	SÜDWESTMETALL	110000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22-24	70597 Stuttgart	2018-12-28	2018-12-31
+CDU	SÜDWESTMETALL	150000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22-24	70597 Stuttgart	2018-12-28	2018-12-31
+FDP	VBM	60000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2018-12-24	2018-12-28
+GRÜNE	VBM	50001	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2018-12-27	2018-12-27
+CSU	VBM	625000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2018-12-21	2018-12-27
+FDP	WID	66000	WID Unternehmergesellschaft	Lise-Meitner-Straße 4	70736 Fellbach	2018-12-18	2018-12-18
+MLPD	GOLTZ	80000	Frau Lena Goltz	Rehpfad 1	65428 Rüsselsheim	2018-12-03	2018-12-04
+FDP	R&W	100000	R + W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2018-11-28	2018-11-29
+SPD	EVONIK	80000	Evonik Industries AG	Rellinghauser Str. 1 - 11	45128 Essen	2018-11-08	2018-11-12
+CDU	EVONIK	80000	Evonik Industries AG	Rellinghauser Straße 1-11	45128 Essen	2018-11-08	2018-11-08
+CDU	METALLNRW	60000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Straße 58-62	40474 Düsseldorf	2018-10-25	2018-10-29
+SSW	SÜDSCHLESWIG	121529.27	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium; Kulturbehörde	H. C. Andersens Boulevard 2	2018-09-25	2018-09-26
+FDP	LINDNER	50249.17	Herr Christian Lindner	Fürstenplatz 14	40215 Düsseldorf	2018-08-27	2018-08-28
+CDU	LANGMANN	260000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2018-07-27	2018-07-31
+CDU	QUANDT/KLATTEN	75000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2018-07-25	2018-07-26
+CDU	QUANDT/KLATTEN	75000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2018-07-25	2018-07-26
+CDU	QUANDT/KLATTEN	50001	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2018-07-02	2018-07-03
+CDU	QUANDT/KLATTEN	50001	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2018-07-02	2018-07-03
+SSW	SÜDSCHLESWIG	121633.36	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2018-06-26	2018-06-26
+CDU	GROTH	100000	Herr Klaus Groth	Kurfürstendamm 63	10707 Berlin	2018-06-04	2018-06-04
+DKP	ZECHMEISTER	352420.5	Herr Andreas Zechmeister	Frankfurter Straße 33	63619 Bad Orb	2018-05-22	2018-05-28
+CDU	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2018-05-07	2018-05-15
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2018-05-09	2018-05-09
+SSW	SÜDSCHLESWIG	122105.38	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2018-03-26	2018-03-26
+SPD	BÜCHNER	100000	Herr Dietmar Bücher	Schlüsselfertiges Bauen	Veitenmühlweg 2	2018-01-25	2018-01-29
+SSW	SÜDSCHLESWIG	112123.41	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde	H.C. Andersens Boulevard 2	2018-01-11	2018-01-11
+FDP	VBM	150000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2017-12-28	2018-01-02
+SPD	VBM	60000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2017-12-28	2018-01-02
+GRÜNE	VBM	60000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2017-12-28	2018-01-02
+CSU	VBM	650000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2017-12-27	2017-12-29
+GRÜNE	SÜDWESTMETALL	110000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2017-12-15	2017-12-20
+SPD	SÜDWESTMETALL	60000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2017-12-15	2017-12-20
+CDU	SÜDWESTMETALL	150000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2017-12-15	2017-12-18
+FDP	SÜDWESTMETALL	110000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2017-12-15	2017-12-18
+MLPD	GÖLLER	250000	Herr Wolfgang Göller	Körnerstraße 8	45772 Marl	2017-11-14	2017-11-20
+SPD	EVONIK	80000	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2017-11-13	2017-11-14
+CDU	EVONIK	80000	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2017-11-13	2017-11-14
+CDU	BIERMANN	200000	Frau Ibeth Biermann	Niederräder Landstraße 34	60528 Frankfurt am Main	2017-11-07	2017-11-07
+FDP	NÄDER	100000	Herr Prof. Hans Georg Näder	Am Weinberg 2	37115 Duderstadt	2017-10-11	2017-10-11
+CDU	LAPP	100000	Herr Andreas Lapp	Rosentalstraße 56	70563 Stuttgart	2017-09-22	2017-09-28
+GRÜNE	WERMUTH	200000	Herr Jochen Wermuth	Johannisstraße 3	10117 Berlin	2017-09-19	2017-09-20
+CDU	NÄDER	100000	Herr Prof. Dr. Hans Georg Näder	Am Weinberg 2	37115 Duderstadt	2017-09-18	2017-09-19
+GRÜNE	PLANK	73000	Herr Dr. Leo Plank	Maximilianstraße 11	80539 München	2017-09-08	2017-09-18
+CDU	GROTH	100000	Klaus Groth	Kurfürstendamm 63	10707 Berlin	2017-09-13	2017-09-15
+SSW	SÜDSCHLESWIG	120595.95	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/Kulturministerium, Kulturbehörde H.C. Andersens Boulevard 2,	1553 København V.	2017-09-05	2017-09-07
+SPD	VCI	70000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstraße 55	60329 Frankfurt am Main	2017-08-11	2017-08-15
+FDP	VCI	75000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstraße 55	60329 Frankfurt am Main	2017-08-11	2017-08-14
+CDU	VCI	150000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstraße 55	60329 Frankfurt am Main	2017-08-10	2017-08-16
+FDP	PAUSDER	50100	Verena Pausder	Rheinsberger Straße 32	10435 Berlin	2017-08-10	2017-08-11
+SPD	POLLMEIER	100000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2017-08-07	2017-08-08
+FDP	FKH	300000	FKH Beteiligungs SE	Kardinal-Faulhaber-Straße 14	80333 München	2017-07-26	2017-07-27
+FDP	DROEGE	100000	Droege Group AG	Poststraße 5-6	40213 Düsseldorf	2017-07-26	2017-07-28
+FDP	DITTRICH	50100	Herr Lars Dittrich	Schlüterstraße 40	10707 Berlin	2017-07-25	2017-07-26
+CDU	OETKER	68000	Dr. August Oetker KG	Lutterstraße 14	33617 Bielefeld 	2017-07-12	2017-07-14
+FDP	SIXT	55000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstraße 1	82049 Pullach	2017-07-05	2017-07-06
+FDP	METALLNRW	90000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Straße 58-62	40474 Düsseldorf	2017-07-03	2017-07-04
+CDU	SCHWARZ-SCHÜTTE	100000	Patrick Schwarz-Schütte	Rotthäuser Weg 30	40629 Düsseldorf	2017-07-03	2017-08-02
+CDU	METALLNRW	110000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Straße 58-62	40474 Düsseldorf	2017-06-30	2017-07-05
+CDU	QUANDT/KLATTEN	50001	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017-06-26	2017-06-29
+CDU	QUANDT/KLATTEN	50001	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017-06-26	2017-06-29
+FDP	QUANDT/KLATTEN	50001	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017-06-23	2017-06-26
+FDP	QUANDT/KLATTEN	50001	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017-06-23	2017-06-26
+FDP	R&W	150000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2017-06-22	2017-06-23
+CDU	LANGMANN	70000	Prof. Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2017-06-20	2017-06-21
+CDU	LANGMANN	300000	Prof. Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2017-06-14	2017-06-14
+SSW	SÜDSCHLESWIG	120563.53	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/Kulturministerium, Kulturbehörde H.C. Andersens Boulevard 2	1553 København V.	2017-06-06	2017-06-08
+CDU	VHB	100000	VHB Grundstücksverwaltung und Beteiligung GmbH & Co. KG	Kurfürstendamm 63	10707 Berlin	2017-06-01	2017-06-06
+CDU	KOFLER	100000	Dr. Georg Kofler	Hagrainer Straße 15	83700 Rottach-Egern	2017-05-29	2017-05-30
+CDU	DOMMERMUTH	500000	Ralph Dommermuth	Friedensstraße 4	56410 Montabaur	2017-05-23	2017-05-23
+FDP	NÄDER	100000	Prof. Hans-Georg Näder	Am Weinberg 2	37115 Duderstadt	2017-05-16	2017-05-16
+GRÜNE	HANSEN	100000	Frank Hansen	Neumäuerstraße 39/2	74523 Schwäbisch Hall	2017-05-04	2017-05-09
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2017-04-28	2017-05-03
+CDU	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2017-04-27	2017-05-02
+CDU	TRUMPF	100000	TRUMPF GmbH + Co. KG	Johann-Maus-Straße 2	71254 Ditzingen	2017-04-10	2017-04-11
+FDP	R&W	56310	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2017-04-07	2017-04-10
+CDU	THEISS	60000	Firma Dr. Theiss Naturwaren GmbH	Michelinstraße 10	66424 Homburg	2017-03-30	2017-04-06
+CDU	GROSSPETER	83535	Hans Horst Grosspeter	Steyrer Weg 6	50858 Köln	2017-03-20	2017-03-21
+SSW	SÜDSCHLESWIG	120641.36	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	Übersetzung: Südschleswig-Ausschuss/Kulturministerium, Kulturbehörde H.C. Andersens Boulevard 2	1553 København V.	2017-03-17	2017-03-28
+FDP	KOFLER	60000	Dr. Georg Jakob Kofler	An Hagrainer Straße 15	83700 Rottach-Egern	2017-03-08	2017-03-09
+FDP	MECKING	200000	Herr Alexander Mecking	Bertha-von-Suttner-Straße 18	65189 Wiesbaden	2017-03-02	2017-03-06
+CDU	OETKER	110000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2017-02-22	2017-02-23
+CDU	KAHL	100000	Herr Christoph Alexander Kahl	Pferdmengesstraße 3	50968 Köln	2017-01-18	2017-01-30
+FDP	HELMIG	300000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2017-01-13	2017-01-13
+SSW	SÜDSCHLESWIG	120250	Sydslesvigudvalget/	Undervisningsministeriet	Übersetzung:	2017-01-03	2017-01-12
+AFD	ZUBRZYCKI	100000	Frau Dr. Marianne Zubrzycki-Lederhausen	Hans-Iwand-Straße 5	53113 Bonn	2016-12-29	2017-01-04
+SPD	BERENBERG	51000	Joh. Berenberg, Gossler & Co. KG	Neuer Jungfernstieg 20	20354 Hamburg	2016-12-16	2017-01-04
+CSU	VBM	350000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-Straße 5	80333 München	2016-12-20	2016-12-21
+GRÜNE	SÜDWESTMETALL	110000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V., Löffelstraße 22–24	70597 Stuttgart	None	2016-12-16	2016-12-21
+FDP	SÜDWESTMETALL	110000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22–24	70597 Stuttgart	2016-12-16	2016-12-20
+CDU	BERENBERG	100000	Berenberg Bank Joh. Berenberg, Gossler & Co. KG	Neuer Jungfernstieg 20	20354 Hamburg	2016-12-16	2016-12-19
+SPD	SÜDWESTMETALL	60000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22–24	70597 Stuttgart	2016-12-16	2016-12-19
+CDU	SÜDWESTMETALL	150000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.	Löffelstraße 22–24	70597 Stuttgart	2016-12-16	2016-12-16
+MLPD	MAY	70000	Herr Michael May	Jahnstraße 41	47443 Moers	2016-12-09	2016-12-15
+CDU	KAHL	100000	Herr Christoph Alexander Kahl	Pferdmengesstraße 3	50968 Köln	2016-11-25	2017-01-25
+FDP	R&W	200000	Firma R & W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2016-11-18	2016-11-22
+SPD	EVONIK	90000	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2016-11-09	2016-11-11
+CDU	EVONIK	90000	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2016-11-04	2016-11-07
+CDU	OETKER	60000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2016-10-25	2016-10-27
+SSW	SÜDSCHLESWIG	118518	Sydslesvigudvalget/	Undervisningsministeriet	Übersetzung:	2016-10-04	2016-10-06
+GRÜNE	WERMUTH	299989	Herr Jochen Wermuth	Johannisstraße 3	10117 Berlin	2016-08-29	2016-09-01
+MLPD	BORGWANDT	100000	Frau Sonja Borgwardt	Am Hauptfriedhof 8	44625 Herne 	2016-08-16	2016-08-19
+CDU	QUANDT/KLATTEN	50001	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2016-07-01	2016-07-04
+CDU	QUANDT/KLATTEN	50001	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2016-07-01	2016-07-04
+SSW	SÜDSCHLESWIG	118518	Sydslesvigudvalget/	Undervisningsministeriet	Übersetzung:	2016-07-04	2016-07-04
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2016-05-04	2016-05-09
+CDU	DAIMLER	100000	Daimler AG	​70546 Stuttgart	None	2016-05-03	2016-05-09
+SSW	SÜDSCHLESWIG	118518	Sydslesvigudvalget/	Undervisningsministeriet	Übersetzung:	2016-04-04	2016-04-06
+GRÜNE	WERMUTH	300000	Herr Jochen Wermuth	Johannisstraße 3	10117 Berlin	2016-02-23	2016-02-26
+CDU	LAPP	150000	Andreas Lapp	Rosentalstraße 56	70563 Stuttgart	2016-02-08	2016-02-18
+CDU	TRUMPF	75000	TRUMPF GmbH + Co. KG	Johann-Maus-Straße 2	71254 Ditzingen	2016-01-29	2016-01-29
+SSW	SÜDSCHLESWIG	118518	Sydslesvigudvalget/	Undervisningsministeriet	Übersetzung:	2016-01-05	2016-01-08
+CDU	LANGMANN	100000	Herr Professor Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2016-01-04	2016-01-05
+FDP	SÜDWESTMETALL	100000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2015-12-21	2015-12-22
+CSU	VBM	358000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-Straße 5	80333 München	2015-12-18	2015-12-21
+SPD	SÜDWESTMETALL	60000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2015-12-11	2015-12-16
+GRÜNE	SÜDWESTMETALL	110000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2015-12-11	2015-12-15
+CDU	SÜDWESTMETALL	150000	Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2015-12-11	2015-12-11
+FDP	HELMIG	200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2015-11-24	2015-11-25
+FDP	R&W	250000	Firma R & W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2015-11-10	2015-11-11
+MLPD	KLAMSER	252400	Helmut Klamser	Am Heisterkamp 13	46147 Oberhausen	2015-10-22	2015-10-26
+CDU	EVONIK	90000	Evonik Industries AG	Rellinghauser Straße 1 - 11	45128 Essen	2015-10-06	2015-10-08
+SPD	EVONIK	60000	Evonik Industries AG	Rellinghauser Straße 1- 11	45128 Essen	2015-10-06	2015-10-07
+CDU	TRUMPF	100000	Trumpf GmbH & Co. KG	Johann-Maus-Straße 2	71254 Ditzingen	2015-09-28	2015-09-30
+CDU	KOFLER	70000	Herr Dr. Georg Kofler	Hagrainer Straße 15	83700 Rottach-Egern	2015-07-01	2015-07-03
+CDU	LANGMANN	70000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstraße 40	64342 Seeheim-Jugenheim	2015-06-12	2015-06-16
+CDU	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2015-05-14	2015-05-18
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2015-05-14	2015-05-15
+SPD	SÜDWESTMETALL	55000	Südwestmetall	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	2014-12-18	2014-12-19
+GRÜNE	SÜDWESTMETALL	100000	Südwestmetall	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	2014-12-18	2014-12-19
+CDU	SÜDWESTMETALL	150000	Südwestmetall	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	2014-12-18	2014-12-18
+FDP	SÜDWESTMETALL	80000	Südwestmetall	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	2014-12-18	2014-12-18
+CSU	VBM	300000	Verband der Bayerischen Metall- und Elektro- Industrie e. V. (VBM)	Max-Joseph-Str. 5	80333 München	2014-12-17	2014-12-19
+MLPD	GEORGIOU	75000	Frau Gabi Georgiou	Hoevelerstraße 38	47179 Duisburg	2014-11-28	2014-12-04
+FDP	R&W	200000	Firma R & W Industriebeteiligungen GmbH	Lindenallee 78	50968 Köln	2014-11-13	2014-11-14
+CDU	EVONIK	70000	Evonik Industries AG	Rellinghauser Straße 1 -11	45128 Essen	2014-09-24	2014-09-30
+SPD	EVONIK	90000	Evonik Industries AG	Rellinghauser Straße 1 -11	45128 Essen	2014-09-24	2014-09-24
+CDU	METALLNRW	55000	METALL NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Straße 58-62	40474 Düsseldorf	2014-09-02	2014-09-05
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2014-04-23	2014-04-24
+CDU	DAIMLER	100000	Daimler AG	70546 Stuttgart	None	2014-04-22	2014-04-23
+CSU	BMW	143371.27	Bayerische Motoren Werke AG	Petuelring 130	80788 München	2014-02-25	2014-02-26
+FDP	SÜDWESTMETALL	80000	Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22 - 24	70597 Stuttgart	2013-12-20	2013-12-20
+FDP	SÜDWESTMETALL	80000	SÃ¼dwestmetall Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.	LÃ¶ffelstraÃe 22 - 24	70597 Stuttgart	2013-12-20	2013-12-20
+FDP	R&W	200000	R&W Industriebeteiligungen GmbH	Lindenallee 78	50968 KÃ¶ln	2013-12-17	2013-12-18
+SPD	EVONIK	90000	Evonik Industries AG	Rellinghauser StraÃe 1 - 11	45128 Essen	2013-11-15	2013-11-18
+FDP	VBM	150000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2013-10-16	2013-10-23
+CSU	VBM	565000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2013-10-15	2013-10-17
+FDP	QUANDT/KLATTEN	70000	Frau Susanne Klatten,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+FDP	QUANDT/KLATTEN	70000	Frau Johanna Quandt,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+FDP	QUANDT/KLATTEN	70000	Herr Stefan Quandt,	GÃ¼nther Quandt-Haus	Seedammweg 55	2013-10-09	2013-10-23
+CDU	QUANDT/KLATTEN	230000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
+CDU	QUANDT/KLATTEN	230000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
+CDU	QUANDT/KLATTEN	230000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2013-10-09	2013-10-10
+CDU	MAV	60000	Märkischer Arbeitgeberverband e.V.	Erich-Nörrenberg-Straße 1	58636 Iserlohn	2013-08-19	2013-08-23
+CDU	MAV	60000	MÃ¤rkischer Arbeitgeberverband e.V.	Erich-NÃ¶rrenberg-StraÃe 1	58636 Iserlohn	2013-08-19	2013-08-23
+FDP	VCI	64000	Verband der Chemischen Industrie e.V. (VCI)	Mainzer LandstraÃe 55	60329 Frankfurt am Main	2013-08-06	2013-08-15
+CDU	VCI	100000	Verband der Chemischen Industrie e.V. (VCI)	Mainzer LandstraÃe 55	60329 Frankfurt am Main	2013-07-26	2013-08-08
+MLPD	MÖLLER	110000	Herr Lüder Möller	Morkerkestraße 17	23564 Lübeck	2013-07-25	2013-07-29
+CDU	LANGMANN	130000	Herr Prof. Dr. Hans-Joachim Langmann	MerckstraÃe 40	64342 Seeheim-Jugenheim	2013-07-18	2013-07-25
+CDU	HERRENKNECHT	70000	Herr Dr. Ing. E.h. Martin Herrenknecht	Waldweg 9	77963 Schwanau	2013-07-09	2013-07-11
+CDU	NÄDER	100000	Herr Prof. Hans Georg Näder	Am Weinberg 2	37115 Duderstadt	2013-07-04	2013-07-11
+CDU	NÄDER	100000	Herr Prof. Hans Georg NÃ¤der	Am Weinberg 2	37115 Duderstadt	2013-07-04	2013-07-11
+CDU	METALLNRW	60000	Verband der Elektro- und Metallindustrie NRW e.V.	Uerdinger StraÃe 58 - 62	40474 DÃ¼sseldorf	2013-06-27	2013-08-29
+FDP	METALLNRW	60000	Verband der Metall- und Elektroindustrie NRW e.V.	Uerdinger StraÃe 58-62	40474 DÃ¼sseldorf	2013-06-27	2013-06-28
+CDU	BERENBERG	100000	Berenberg Bank Joh. Berenberg, Gossler & Co. KG	Neuer Jungfernstieg 20	20354 Hamburg	2013-06-10	2013-06-13
+SPD	SÜSSELBECK	80000	Frau Marga Süsselbeck	An der Lister Kirche 2	30163 Hannover	2013-06-06	2013-07-01
+SPD	SÜSSELBECK	80000	Frau Marga SÃ¼sselbeck	An der Lister Kirche 2	30163 Hannover	2013-06-06	2013-07-01
+CDU	DAIMLER	100000	Daimler AG	70546 Stuttgart		2013-04-30	2013-04-30
+SPD	DAIMLER	100000	Daimler AG	70546 Stuttgart		2013-04-26	2013-04-26
+CSU	BMW	143817.65	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-03-05	2013-03-05
+SPD	BMW	107376.06	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-03-04	2013-03-04
+FDP	BMW	69081.24	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2013-02-19	2013-02-19
+CDU	SÜDWESTMETALL	90000	SÃ¼dwestmetall Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.	LÃ¶ffelstraÃe 22 - 24	70597 Stuttgart	2012-12-27	2013-01-07
+FDP	TEXTILNORDWEST	65000	Verband der Nordwestdeutschen Textil- und Bekleidungsindustrie e.V.	MoltkestraÃe 19	48151 MÃ¼nster	2012-12-14	2012-12-17
+MLPD	PENTZ	115000	Conrad und Dorit von Pentz	WerftstraÃe 33	26382 Wilhelmshaven	2012-10-29	2012-11-01
+FDP	VBM	80000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2012-09-05	2012-09-06
+CSU	VBM	320000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-StraÃe 5	80333 MÃ¼nchen	2012-09-04	2012-09-05
+CDU	METALLNRW	60000	Verband der Elektro- und Metallindustrie Nordrhein-Westfalen e.V.	Uerdinger StraÃe 58 - 62	40474 DÃ¼sseldorf	2012-05-16	2012-05-22
+SPD	DAIMLER	150000	Daimler AG	70546 Stuttgart		2012-05-16	2012-05-18
+CDU	BMW	57048.34	Bayerische Motoren Werke AG	Petuelring 130	80788 MÃ¼nchen	2012-03-06	2012-03-07
+SPD	BMW	109472.88	Bayerische Motoren Werke AG	Petuelring 130	80788 MÃ¼nchen	2012-03-05	2012-03-05
+AGFG	RATH	837503	Dr. Rath Health Programs B.V.	Sourethweg 9	NL – 6422 PC Heerlen	2012-01-01	2009-05-07
+MLPD	DACHNER	100000	Lina Dachner	SchillerstraÃe 19	76135 Karlsruhe	2011-12-29	2011-12-30
+MLPD	NIERSTENHÖFER	113969.15	Dr. Irene NierstenhÃ¶fer	Auf der AltstÃ¤tte 1 C	44369 Dortmund	2011-12-28	2011-12-30
+FDP	VBM	80000	Verband der Bayerischen Metall- und Elektro-Industrie e. V.	Max-Joseph-Str. 5	80333 MÃ¼nchen	2011-12-22	2011-12-23
+CSU	VBM	320000	Verband der Bayerischen Metall- und Elektro-Industrie e. V.	Max-Joseph-Str. 5	80333 MÃ¼nchen	2011-12-21	2011-12-23
+CDU	SÜDWESTMETALL	100000	SÃ¼dwestmetall	Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.	LÃ¶ffelstraÃe 22 - 24	2011-10-07	2011-10-11
+CDU	METALLNRW	60000	Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger StraÃe 58 - 62	40474 DÃ¼sseldorf	2011-08-31	2011-09-02
+SPD	DAIMLER	150000	Daimler AG	70546 Stuttgart		2011-08-10	2011-08-10
+SPD	ALLIANZ	50001	Allianz SE	KÃ¶niginstraÃe 28	80802 MÃ¼nchen	2011-07-01	2011-07-01
+CDU	BERENBERG	100000	Berenberg Bank Joh. Berenberg, Gossler & Co. KG,	Neuer Jungfernstieg 20	20354 Hamburg	2011-07-01	2011-07-04
+CSU	ALLIANZ	50001	Allianz SE	KÃ¶niginstraÃe 28	80802 MÃ¼nchen	2011-06-30	2011-07-01
+FDP	REUTAX	50500	REUTAX AG	Speyerer Str. 4	69115 Heidelberg	2011-03-04	2011-03-10
+FDP	BMW	65129.35	Bayerische Motoren Werke AG	Petuelring 130	80809 MÃ¼nchen	2011-02-23	2011-02-23
+FDP	SÜDWESTMETALL	75000	SÃDWESTMETALL Verband der Metall- und Elektroindustrie Baden-WÃ¼rttemberg e.V.,	LÃ¶ffelstraÃe 22	70597 Stuttgart	2010-12-23	2011-01-06
+CDU	SÜDWESTMETALL	200000	SÜDWESTMETALL Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,	Löffelstraße 22 - 24	70597 Stuttgart	2010-12-23	2010-12-28
+FDP	VBM	80000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),	Max-Joseph-Straße 5	80333 München	2010-12-07	2010-12-08
+CSU	VBM	300000	Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),	Max-Joseph-Straße 5	80333 München	2010-12-06	2010-12-07
+FDP	DVAG	60000	Deutsche Vermögensberatung AG,	Münchener Straße 1	60329 Frankfurt am Main	2010-11-09	2010-11-10
+CDU	BERENBERG	100000	Berenberg Bank	Joh. Berenberg, Gossler & Co. KG,	Neuer Jungfernstieg 20,	2010-11-05	2010-11-08
+CDU	WÜRTH	100000	Adolf Würth GmbH & Co. KG,	Reinhold-Würth-Straße 12-17,	74653 Künzelsau	2010-10-27	2010-10-29
+DVU	FREY	1030898.97	Dr. Gerhard Frey	Paosostraße 2	81243 München	2010-10-20	2010-10-25
+NPD	VPNP	150225.84	Verein zur Pflege nationaler Politik e.V.	Grüntenweg 14	72622 Nürtingen	2010-09-15	2010-09-29
+FDP	DVAG	65000	Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2010-08-17	2010-08-18
+GRÜNE	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2010-08-12	2010-08-16
+FDP	ALLIANZ	50001	Allianz SE	Königinstraße 28	80802 München	2010-08-11	2010-08-12
+SPD	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2010-08-10	2010-08-12
+CDU	METALLNRW	160000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	Uerdinger Str. 58-62	40474 Düsseldorf	2010-08-05	2010-08-27
+CSU	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2010-07-08	2010-07-13
+FDP	DVAG	75000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2010-07-06	2010-07-12
+LINKE	HOLZ	100000	Dr. Friedhelm Holz	Fritz-Reuter-Weg 7	49214 Bad Rothenfelde	2010-05-27	2010-06-03
+LINKE	HOLZ	75000	Dr. Friedhelm Holz	Fritz-Reuter-Weg 7	49214 Bad Rothenfelde	2010-05-21	2010-06-02
+SPD	DAIMLER	150000	Daimler AG	70546 Stuttgart		2010-05-11	2010-05-17
+CDU	DAIMLER	150000	Daimler AG	70546 Stuttgart		2010-05-10	2010-05-12
+FDP	METALLNRW	60000	Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.	Uerdinger Str. 58-62	40474 Düsseldorf	2010-04-12	2010-04-19
+FDP	BMW	55886.411	Bayerische Motoren Werke AG	Petuelring 130	80788 München	2010-02-26	2010-02-26
+CSU	BMW	148718.171	Bayerische Motoren Werke AG	Petuelring 130	80788 München	2010-02-25	2010-02-25
+CDU	BMW	133235.621	Bayerische Motoren Werke AG	Petuelring 130	80788 München	2010-02-24	2010-02-25
+CDU	DVAG	125000	Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2010-02-10	2010-02-12
+CDU	DVAG	75000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2010-02-10
+CDU	SÜDWESTMETALL	100000	Südwestmetall	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	2009-12-28	2009-12-29
+FDP	SUBSTANTIA	300000	Substantia AG	Berliner Allee 21	40212 Düsseldorf	2009-10-13	2009-10-19
+CDU	QUANDT/KLATTEN	150000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2009-10-01	2009-10-02
+CDU	QUANDT/KLATTEN	150000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2009-10-01	2009-10-02
+CDU	QUANDT/KLATTEN	150000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2009-10-01	2009-10-02
+FDP	REUTAX	50500	REUTAX AG	Kurfürsten-Anlage 34 - 36	69115 Heidelberg	2009-09-22	2009-09-24
+NPD	WEBER	140500	Robert Weber	Hanfsack 4	98634 Mehmels	2009-09-09	2009-09-14
+CDU	DVAG	120000	Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2009-08-11	2009-08-18
+CDU	DVAG	100000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2009-08-11	2009-08-18
+CDU	SCHNABEL	200000	Prof. Dr. h. c. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2009-08-06	2009-08-07
+CDU	FERRING	150000	FERRING Arzneimittel GmbH	Fabrikstraße 7	24103 Kiel	2009-08-06	2009-08-07
+CDU	YOC	261800	YOC AG	Karl-Liebknecht-Straße 1	10178 Berlin	2009-08-05	2009-08-05
+FDP	SUBSTANTIA	300000	Substantia AG	Berliner Allee 21	40212 Düsseldorf	2009-08-05	2009-08-06
+CDU	ALLIANZ	60001	Allianz AG	Königinstraße 28	80802 München	2009-08-04	2009-08-07
+CSU	VBCI	70000	Verein der Bayerischen Chemischen Industrie e. V.	Innstraße 15	81679 München	2009-08-04	2009-08-05
+GRÜNE	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2009-08-03	2009-08-04
+FDP	ALLIANZ	50001	Allianz Deutschland AG	Königinstraße 28	80802 München	2009-07-31	2009-08-03
+CDU	VCI	100000	Verband der Chemischen Industrie e. V.	Karlstraße 21	60329 Frankfurt am Main	2009-07-30	2009-07-31
+CSU	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2009-07-29	2009-07-30
+CDU	MAV	60000	Märkischer Arbeitgeberverband e. V.	Körnerstraße 25	58095 Hagen	2009-07-13	2009-08-11
+CDU	HERRENKNECHT	70000	Dr.-Ing. E. h. Martin Herrenknecht	Waldweg 9	77963 Schwanau	2009-07-10	2009-07-15
+CDU	BERENBERG	106000	Berenberg Bank	Joh. Berenberg Gossler & Co.	Neuer Jungfernstieg 20	2009-07-08	2009-07-08
+FDP	VBM	150000	Verband der Bayerischen Metall- und Elektroindustrie	Max-Joseph-Straße 5	80333 München	2009-07-07	2009-07-09
+CSU	VBM	600000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Straße 5	80333 München	2009-07-03	2009-07-06
+CSU	SCHEFFEL	116317.216	Firma Scheffel Grund GmbH	Lilienthalallee 25	80939 München	2009-07-01	2009-07-02
+FDP	DVAG	150000	Deutsche Vermögensberatung AG	DVAG	Münchener Straße 1	2009-06-30	2009-07-06
+FDP	DVAG	100000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2009-06-30	2009-07-06
+AGFG	RATH	103135.412	Dr. Rath Education Services B.V.	Sourethweg 9	NL - 64 22 PC Heerlen	2009-06-27	2009-07-09
+CDU	SCHNABEL	200000	Prof. Dr. h. c. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2009-06-23	2009-06-25
+FDP	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt am Main	2009-06-22	2009-06-25
+CDU	METALLNRW	170000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e. V.	Uerdinger Straße 58	40474 Düsseldorf	2009-06-10	2009-06-15
+CDU	DAIMLER	150000	Daimler AG	Mercedesstraße 137	70327 Stuttgart	2009-06-03	2009-06-05
+SPD	DAIMLER	150000	Daimler AG	70546 Stuttgart		2009-06-02	2009-06-03
+FDP	REUTAX	50500	REUTAX AG	Kurfürsten-Anlage 34–36	69115 Heidelberg	2009-04-16	2009-04-24
+FDP	SUBSTANTIA	250000	Substantia AG	Berliner Allee 21	40212 Düsseldorf	2009-04-14	2009-04-20
+CDU	BERTELSMANN	60000	Bertelsmann AG	Carl-Bertelsmann-Straße 270	33311 Gütersloh	2009-04-09	2009-04-15
+CDU	DEUTSCHEBANK	200000	Deutsche Bank AG	Theodor-Heuss-Allee 70	60486 Frankfurt am Main	2009-03-20	2009-03-24
+CDU	KAHL	100000	Christoph Alexander Kahl	Pferdmengesstraße 3	50968 Köln	2009-03-03	2009-03-05
+CDU	BMW	110209.374	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2009-02-23	2009-02-24
+SPD	BMW	151344.564	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2009-02-20	2009-02-23
+CSU	BMW	146776.144	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2009-02-18	2009-02-19
+FDP	BMW	54042.584	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2009-02-16	2009-02-26
+CDU	EVONIK	70000	Evonik Industries AG	Rellinghauser Straße 1–11	45128 Essen	2009-01-28	2009-01-28
+SPD	EVONIK	100000	Evonik Industries AG	Rellinghauser Straße 1–11	45128 Essen	2009-01-27	2009-01-28
+CDU	CLOU	200000	Clou Container Leasing GmbH	Harvestehuder Weg 18	20148 Hamburg	2009-01-13	2009-01-14
+CDU	SÜDWESTMETALL	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2008-12-19	2008-12-30
+AGFG	RATH	777505	Dr. Rath Health Programs B.V.	Sourethweg 9	NL - 6422 PC Heerlen	2008-12-18	2009-01-13
+FDP	DVAG	100000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2008-12-15	2008-12-17
+CDU	DVAG	100000	Allfinanz Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2008-12-10	2008-12-11
+SPD	DEUTSCHEBANK	100000	Deutsche Bank AG	Theodor-Heuss-Allee 70	60486 Frankfurt am Main	2008-12-08	2008-12-10
+FDP	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt am Main	2008-12-05	2008-12-11
+AGFG	RATH	69750	Dr. Rath Health Programs B.V.	Sourethweg 9	6422 PC Heerlen	2008-11-19	2008-11-28
+AGFG	RATH	88591	Dr. Rath Education Services B.V.	Sourethweg 9	6422 PC Heerlen	2008-10-29	2008-10-31
+FDP	SUBSTANTIA	250000	VM Holding Aktiengesellschaft	Berliner Allee 121	40212 Düsseldorf	2008-10-15	2008-10-20
+AGFG	RATH	61750	Dr. Rath Health Programs B.V.	Sourethweg 9	6422 PC Heerlen	2008-10-10	2008-10-21
+CDU	DEUTSCHEBANK	200000	Deutsche Bank AG	Theodor-Heuss-Allee 70	60486 Frankfurt am Main	2008-10-06	2008-10-08
+CDU	EGGERT	71400	EGGERT GROUP GmbH & Co. KG	Benrather Straße 18-20	40213 Düsseldorf	2008-09-23	2008-10-06
+CSU	CLAIR	430000	Clair Immobilien Deutschland GmbH	Pacellistraße 4	80333 München	2008-09-22	2008-09-26
+CSU	MERCATOR	390000	Mercator Verwaltung GmbH	Promenadeplatz 12	80333 München	2008-09-22	2008-09-26
+CDU	OPPENHEIM	100000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	Unter Sachsenhausen 4	50667 Köln	2008-08-05	2008-08-05
+FDP	OPPENHEIM	100000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	Unter Sachsenhausen 4	50667 Köln	2008-08-01	2008-08-05
+CDU	METALLNRW	70000	Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.	Uerdinger Straße 56-62	40474 Düsseldorf	2008-07-30	2008-08-12
+CSU	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2008-07-15	2008-07-16
+GRÜNE	ALLIANZ	60001	Allianz SE, Repräsentanz	Pariser Platz 6	10117 Berlin	2008-07-15	2008-07-16
+CDU	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2008-07-15	2008-07-18
+FDP	ALLIANZ	50001	Allianz Versicherungs-AG	Königinstraße 28	80802 München	2008-07-14	2008-07-17
+MLPD	MAY	70000	Herr Michael May	Jahnstraße 41	47443 Moers	2008-06-24	2008-07-10
+CDU	DAIMLER	150000	Daimler AG		70546 Stuttgart	2008-06-17	2008-06-18
+SPD	DAIMLER	150000	Daimler AG		70546 Stuttgart	2008-06-17	2008-06-19
+AGFG	RATH	50500	Dr. Rath Health Programs B.V.	Sourethweg 9	6422 PC Heerlen	2008-05-30	2008-06-20
+MLPD	MAY	330000	Herr Michael May	Jahnstraße 41	47443 Moers	2008-05-20	2008-06-20
+FDP	BOERSCH	75000	Herr Dr. Cornelius Boersch	Dufourstraße 121	CH-9001 St.Gallen	2008-05-20	2008-05-20
+FDP	VBM	100000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2008-04-04	2008-04-09
+CSU	VBM	540000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2008-04-02	2008-04-04
+SPD	COMMERZBANK	100000	Commerzbank AG	Kaiserplatz	60311 Frankfurt am Main	2008-03-25	2008-03-28
+CDU	COMMERZBANK	100000	Commerzbank AG	Kaiserplatz	60311 Frankfurt am Main	2008-03-20	2008-03-26
+CDU	BMW	71565	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2008-02-26	2008-02-27
+CSU	BMW	134742	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2008-02-21	2008-02-22
+FDP	BMW	61146	Bayerische Motorenwerke AG		Berlin / Bonn	2008-02-14	2008-02-25
+CDU	SCHNABEL	100000	Herr Prof. Dr. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2008-02-01	2008-02-11
+CDU	SCHNABEL	100000	Herr Prof. Dr. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2008-01-31	2008-02-08
+CDU	QUANDT/KLATTEN	75000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2008-01-28	2008-01-29
+CDU	QUANDT/KLATTEN	75000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2008-01-28	2008-01-29
+CDU	QUANDT/KLATTEN	75000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2008-01-28	2008-01-29
+CDU	EVONIK	70000	Evonik Industries AG	Rellinghauser Straße 1-11	45128 Essen	2008-01-21	2008-01-23
+SPD	EVONIK	100000	Evonik Industries AG	Rellinghauser Straße 1-11	45128 Essen	2008-01-18	2008-01-22
+CDU	CLOU	100000	Clou Container Leasing GmbH	Harvestehuder Weg 18	20148 Hamburg	2008-01-10	2008-01-16
+FDP	DVAG	54000	Deutsche Vermögensberatung AG	Münchener Straße 1	60329 Frankfurt am Main	2007-12-28	2008-01-09
+CDU	SÜDWESTMETALL	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2007-12-21	2007-12-27
+FDP	SÜDWESTMETALL	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2007-12-21	2007-12-27
+FDP	FORDAN	90000	Herr Kurt Fordan	Adalbert-Stifter-Straße 41	81925 München	2007-12-06	2007-12-17
+CDU	OFFEN	75000	Reederei Claus-Peter Offen GmbH & Co.	Bleichenbrücke 10	20354 Hamburg	2007-11-15	2007-11-19
+AGFG	RATH	55000	Matthias Rath Limited	414 Montrose Avenue	Slough Berkshire, SL 1 4TJ	2007-10-30	2007-11-30
+CDU	LINSENHOFF	65000	Frau Ann Kathrin Linsenhoff	Schwalbacher Straße	61476 Kronberg	2007-10-22	2007-10-24
+FDP	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt/Main	2007-10-18	2007-10-22
+AGFG	RATH	150000	Dr. Rath Health Programms B.V.	Sourethweg 9	NL-6422 PC Heerlen	2007-10-08	2007-11-30
+CSU	STOSCHEK	100000	Herr Michael Stoschek	Schleifschrot	96483 Ahorn	2007-09-25	2007-10-31
+AGFG	RATH	97000	Matthias Rath Limited	414 Montrose Avenue	Slough, Berkshire, SL 1 4 TJ	2007-08-23	2008-02-14
+CDU	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt/Main	2007-08-10	2007-08-10
+SPD	ALLIANZ	60001	Allianz Deutschland AG	Königinstraße 28	80802 München	2007-07-18	2007-07-20
+GRÜNE	ALLIANZ	60001	Allianz SE	Königinstraße 28	80802 München	2007-07-18	2007-07-20
+FDP	ALLIANZ	50001	Allianz Versicherungs-AG	Königinstraße 28	80802 München	2007-07-17	2007-07-20
+CDU	SCHNABEL	200000	Herr Prof. Dr. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2007-07-11	2007-07-16
+CDU	CAPITAL	100000	CAPITAL Lease GmbH	Harvestehuder Weg 18	20148 Hamburg	2007-06-05	2007-06-05
+AGFG	RATH	100000	Dr. Rath Health Programms B.V.	Sourethweg 9	NL-6422 PC Heerlen	2007-05-31	2007-08-07
+FDP	VBCI	75000	Verband der Chemischen Industrie e.V.	Karlstraße 21	60329 Frankfurt am Main	2007-05-29	2007-05-31
+CDU	VBCI	100000	Verband der Chemischen Industrie e.V.	Karlstraße 21	60329 Frankfurt am Main	2007-05-25	2007-05-30
+CSU	VBM	330000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2007-05-18	2007-05-22
+SPD	DAIMLER	150000	Daimler Chrysler AG	Epplestra?e 225	70546 Stuttgart	2007-03-12	2007-03-19
+MLPD	MAY	200000	Herr Michael May	Jahnstraße 41	47443 Moers	2007-02-27	2007-03-05
+AGFG	RATH	60000	Dr. Rath Education Services B.V.	Sourethweg 9	NL-6422 PC Heerlen	2007-02-08	2007-08-07
+CDU	QUANDT/KLATTEN	125000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2007-02-01	2007-02-02
+SPD	POLLMEIER	64134	Herr Ralf Pollmeier	Pferdsdorferweg 6	99831 Creuzburg	2006-12-31	2007-02-06
+SPD	BMW	72380	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2006-12-31	2007-02-22
+AGFG	RATH	224030	Dr. Rath Education Services B.V.	Sourethweg 9	6422 PC Heerlen	2006-12-21	2007-02-01
+FDP	SÜDWESTMETALL	100000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2006-12-08	2006-12-12
+SPD	COMMERZBANK	75000	Commerzbank AG	Kaiserplatz	60311 Frankfurt am Main	2006-11-15	2006-11-17
+FDP	COMMERZBANK	60000	Commerzbank AG	Kaiserplatz	60311 Frankfurt am Main	2006-11-14	2006-11-20
+FDP	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt am Main	2006-10-20	2006-10-23
+FDP	ALLIANZ	50001	Allianz Deutschland AG	Königinstraße 28	80802 München	2006-08-29	2006-08-31
+CDU	EON	100000	E.ON AG	E.ON Platz 1	40479 Düsseldorf	2006-07-21	2006-07-26
+CDU	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60325 Frankfurt am Main	2006-07-21	2006-07-26
+CSU	VBM	330000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2006-06-13	2006-06-14
+MLPD	MAY	500000	Herr Michael May	Jahnstraße 41	47443 Moers	2006-06-09	2006-06-20
+CDU	QUANDT/KLATTEN	125000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2006-05-08	2006-05-10
+MLPD	MAY	1215000	Herr Michael May	Jahnstraße 41	47443 Moers	2006-04-18	2006-04-26
+MLPD	MAY	50000	Herr Michael May	Jahnstraße 41	47443 Moers	2006-03-16	2006-04-04
+CDU	QUANDT/KLATTEN	100000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2006-03-06	2006-03-08
+SPD	RAG	100000	RAG Aktiengesellschaft	Rellinghauser Str. 1-11	45128 Essen	2006-02-15	2006-02-20
+CDU	RAG	70000	RAG Aktiengesellschaft	Rellinghauser Str. 1-11	45128 Essen	2006-02-14	2006-02-16
+FDP	BMW	51917	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2005-12-31	2006-03-13
+CDU	CSU	2334526	Christlich-Soziale Union in Bayern	Nymphenburger Str. 64	80335 München	2005-10-24	2005-10-28
+CDU	MAXIPOSTER	96544	B.A.B. MaxiPoster Werbetürme GmbH	Theodorstr. 42-90, Haus 6	22761 Hamburg	2005-10-04	2005-11-04
+MLPD	MAY	614167	Herr Michael May	Jahnstr. 41	47443 Moers	2005-09-30	2005-10-14
+CDU	YOC	136010	YOC AG	Dircksenstr. 47	10178 Berlin	2005-09-21	2005-10-07
+CDU	SCHNABEL	200000	Herr Prof. Dr. Hermann Schnabel	Nordkanalstraße 28	20097 Hamburg	2005-09-16	2005-09-21
+CDU	PANORAMA	98206	Panorama Verlags- und Werbegesellschaft mbH	Sudbrackstraße 14-18	33611 Bielefeld	2005-09-16	2005-09-21
+CDU	QUANDT/KLATTEN	120000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2005-09-09	2005-09-12
+CDU	AIDA	63800	AIDA Media Ltd.	Einsteinstraße 157	81675 München	2005-09-07	2005-09-16
+FDP	VCI	70000	Verband der Chemischen Industrie e.V.	Karlstr. 23	60329 Frankfurt	2005-09-06	2005-09-07
+CDU	QUANDT/KLATTEN	120000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2005-09-06	2005-09-12
+CDU	QUANDT/KLATTEN	120000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2005-09-06	2005-09-12
+CDU	OPPENHEIM	250000	Bankhaus Sal. Oppenheim Jr. & Cie KGaA	Unter Sachsenhausen 4	50667 Köln	2005-09-01	2005-09-06
+CDU	SÜDWESTMETALL	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2005-08-19	2005-08-31
+GRÜNE	ALLIANZ	60001	Allianz Deutschland AG	Königinstraße 28	80802 München	2005-08-12	2005-08-12
+FDP	ALLIANZ	50001	Allianz Deutschland AG	Königinstraße 28	80802 München	2005-08-11	2005-08-22
+CDU	DEUTSCHEBANK	300000	Deutsche Bank AG	Taunusanlage 12	60262 Frankfurt am Main	2005-08-10	2005-08-12
+SPD	DAIMLER	150000	Daimler Chrysler AG	Epplestraße 225	70546 Stuttgart	2005-08-10	2005-08-24
+SPD	ALLIANZ	60001	Allianz Deutschland AG	Königinstraße 28	80802 München	2005-08-08	2005-08-15
+MLPD	SCHMID	175000	Herr Eberhard Schmid	Hasenbergsteige 5	70178 Stuttgart	2005-08-08	2005-08-16
+CDU	VBCI	100000	Verband der Chemischen Industrie e.V.	Karlstraße 21	60329 Frankfurt	2005-08-04	2005-08-08
+SPD	PORSCHE	200000	Dr. Ing. h. c. F. Porsche AG	Porscheplatz 1	70435 Stuttgart	2005-07-27	2005-07-29
+SPD	EON	150000	E.ON AG	E.ON Platz 1	40479 Düsseldorf	2005-07-26	2005-07-28
+FDP	VBM	60000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2005-07-19	2005-07-25
+CSU	VBM	400000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2005-07-15	2005-07-20
+CDU	QUANDT/KLATTEN	125000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2005-07-13	2005-07-15
+CDU	COMMERZBANK	150000	Commerzbank AG	Kaiserplatz	60311 Frankfurt am Main	2005-07-07	2005-07-08
+SPD	BMW	71172	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2004-12-21	2004-12-23
+CDU	SÜDWESTMETALL	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2004-12-20	2004-12-22
+CDU	ABELSGREY	73080	Abels & Grey, Gesellschaft für strategisches Informations- und Kommunikations-Management mbH	Goethestraße 51a	40237 Düsseldorf	2004-12-07	2004-12-17
+FDP	ALLIANZ	50001	Allianz Deutschland AG	Königinstraße 28	80802 München	2004-11-29	2004-12-02
+CDU	KAHL	100000	Herr Christoph Alexander Kahl	Pferdmengesstr. 3	50968 Köln	2004-08-30	2004-09-07
+FDP	VICTOR	80000	Victor's Bau + Wert AG	Deutschmühlental 2	66117 Saarbrücken	2004-08-04	2004-08-09
+CDU	QUANDT/KLATTEN	100000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2004-07-14	2004-07-16
+CDU	DEUTSCHEBANK	200000	Deutsche Bank AG	Taunusanlage 12	60262 Frankfurt am Main	2004-06-29	2004-07-01
+CDU	QUANDT/KLATTEN	100000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2004-05-18	2004-05-25
+BSU	SAUER	52000	Herr Reiner Sauer	Wassermannstraße 18	96052 Bamberg	2004-05-14	2004-06-17
+CDU	DAIMLER	150000	Daimler Chrysler AG	Epplestraße 225	70546 Stuttgart	2004-04-15	2004-04-21
+CSU	VBM	370000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2004-03-18	2004-03-19
+FDP	BMW	51483	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2004-03-18	2004-04-05
+CDU	FISCHER	75000	Frau Dr. Karin Fischer	Mühlenberger Weg 16	22587 Hamburg	2004-01-14	2004-01-15
+CDU	BMW	50958	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2003-12-31	2004-04-01
+CDU	SÜDWESTMETALL	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2003-12-19	2004-01-07
+CDU	FISCHER	75000	Frau Dr. Karin Fischer	Mühlenberger Weg 16	22587 Hamburg	2003-12-19	2003-12-29
+GRÜNE	ALLIANZ	60000	Allianz Deutschland AG	Königinstraße 28	80802 München	2003-12-18	2003-12-19
+SPD	ALLIANZ	60000	Allianz Deutschland AG	Königinstr. 28	80802 München	2003-12-17	2004-01-15
+CDU	FERRING	100000	FERRING Arzneimittel GmbH	Wittland 11	24109 Kiel	2003-12-08	2003-12-11
+FDP	SÜDWESTMETALL	100000	Verband der Metallindustrie Baden-Württemberg	Löffelstraße 22-24	70597 Stuttgart	2003-12-04	2004-06-22
+SPD	DEUTSCHEBANK	100000	Deutsche Bank AG	Taunusanlage 12	60262 Frankfurt am Main	2003-12-01	2003-12-10
+SPD	EUROLOTTO	65894	Eurolottoclub AG	Am Scheerleck 9	6868 Wecker	2003-05-29	2003-07-21
+CSU	VBM	500000	Verband der Bayerischen Metall- und Elektroindustrie e.V.	Max-Joseph-Straße 5	80333 München	2003-04-17	2003-04-23
+SPD	DAIMLER	150000	Daimler Chrysler AG	Epplestraße 225	70546 Stuttgart	2003-04-11	2003-05-08
+CDU	DAIMLER	150000	Daimler Chrysler AG	Epplestraße 225	70546 Stuttgart	2003-04-10	2003-04-16
+CDU	PUSCHENDORF	70000	Eheleute Bernd und Gertraude Puschendorf	Holstenwall 10	20355 Hamburg	2003-02-13	2003-02-17
+CDU	DEUTSCHEBANK	51130	Deutsche Bank AG	Taunusanlage 12	60262 Frankfurt am Main	2003-02-07	2003-02-13
+CDU	QUANDT/KLATTEN	120000	ALTANA AG Herbert-Quandt-Haus	Am Pilgerrain 15	61352 Bad Homburg	2003-01-30	2003-02-06
+CDU	QUANDT/KLATTEN	75000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2003-01-24	2003-01-31
+CDU	QUANDT/KLATTEN	75000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2003-01-24	2003-01-31
+CDU	QUANDT/KLATTEN	75000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2003-01-24	2003-01-31
+FDP	MÖLLEMANN	980000	Herr Jürgen W. Möllemann	Coesfeldweg 59	48161 Münster	2002-12-31	2003-12-29
+CDU	CARAT	50416	Carat Wiesbaden GmbH & Co. KG Media Service	Kreuzberger Ring 19	65205 Wiesbaden	2002-12-31	2003-08-27
+FDP	BMW	59875	Bayerische Motorenwerke AG	Petuelring 130	80788 München	2002-12-31	2003-03-26
+CSU	PACELLI	141369	Pacelli Beteiligungs GmbH & Co. KG	Promenadeplatz 12	80333 München	2002-10-25	2002-11-04
+FDP	QUANDT/KLATTEN	80000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2002-09-12	2002-09-17
+FDP	QUANDT/KLATTEN	70000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2002-09-12	2002-09-17
+CDU	BOSCH	100000	Robert Bosch GmbH	Robert-Bosch-Platz 1	70839 Gerlingen	2002-09-09	2002-09-17
+CDU	QUANDT/KLATTEN	180000	Frau Johanna Quandt	Seedammweg 55	61352 Bad Homburg	2002-09-04	2002-09-17
+CDU	QUANDT/KLATTEN	180000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2002-09-04	2002-09-17
+CDU	QUANDT/KLATTEN	170000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2002-09-04	2002-09-17
+CDU	SÜDWESTMETALL	200000	Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.	Löffelstraße 22-24	70597 Stuttgart	2002-08-23	2002-09-03
+GRÜNE	OSTWIND	70000	Ostwind-Verwaltungsgesellschaft mbH	Dänzergasse 8	93047 Regensburg	2002-08-15	2002-08-20
+SPD	TCHIBO	200000	Tchibo Holding AG	Überseering 18	22297 Hamburg	2002-07-04	2002-07-09
